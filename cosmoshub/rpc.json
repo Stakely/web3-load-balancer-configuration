@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "domain": "cosmoshub-rpc-server.stakely.io",
+    "weight": 1.1
+  },
+  {
+    "name": "Cosmos",
+    "website": "https://cosmos.network",
+    "domain": "rpc.cosmos.network",
+    "weight": 1
+  },
+  {
+    "name": "Stakesystems",
+    "website": "https://stakesystems.io",
+    "domain": "cosmoshub.stakesystems.io:2053",
+    "weight": 1
+  },
+  {
+    "name": "Keplr",
+    "website": "https://keplr.app",
+    "domain": "rpc-cosmoshub.keplr.app",
+    "weight": 1
+  },
+  {
+    "name": "Blockapsis",
+    "website": "https://blockapsis.com",
+    "domain": "rpc-cosmoshub.blockapsis.com",
+    "weight": 1
+  },
+  {
+    "name": "Atomscan",
+    "website": "https://atomscan.com",
+    "domain": "rpc.atomscan.com",
+    "weight": 1
+  }
+]

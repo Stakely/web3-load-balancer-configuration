@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "domain": "juno-rpc-server.stakely.io",
+    "weight": 1.1
+  },
+  {
+    "name": "Omniflix",
+    "website": "https://omniflix.co",
+    "domain": "rpc.juno.omniflix.co",
+    "weight": 0.6
+  },
+  {
+    "name": "Itastakers",
+    "website": "https://itastakers.com",
+    "domain": "rpc-juno.itastakers.com",
+    "weight": 1
+  },
+  {
+    "name": "Nodes Guru",
+    "website": "https://nodes.guru",
+    "domain": "rpc-juno.nodes.guru",
+    "weight": 1
+  },
+  {
+    "name": "Stakesystems",
+    "website": "https://stakesystems.io",
+    "domain": "juno.stakesystems.io:2053",
+    "weight": 1
+  },
+  {
+    "name": "Keplr",
+    "website": "https://keplr.app",
+    "domain": "rpc-juno.keplr.app",
+    "weight": 1
+  }
+]

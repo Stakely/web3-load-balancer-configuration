@@ -33,7 +33,7 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 
 <br>
 
-## Avaliable endpoints and stats page
+## Available endpoints and stats page
 - Cosmoshub:
   - LCD: https://cosmoshub-lcd.stakely.io
   - RPC: https://cosmoshub-rpc.stakely.io

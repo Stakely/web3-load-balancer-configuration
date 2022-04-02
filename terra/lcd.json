@@ -3,6 +3,7 @@
     "name": "Stakely",
     "website": "https://stakely.io",
     "domain": "terra-lcd-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
   {
@@ -15,24 +16,28 @@
     "name": "Easy2stake",
     "website": "https://easy2stake.com",
     "domain": "terra-lcd.easy2stake.com:443",
+    "keybase": "2C877AC873132C91",
     "weight": 1
   },
   {
     "name": "Blockdaemon",
     "website": "https://blockdaemon.com",
     "domain": "blockdaemon-terra-lcd.api.bdnodes.net:1317",
+    "keybase": "35892AC552B8A0A8",
     "weight": 1
   },
   {
     "name": "Stakesystems",
     "website": "https://stakesystems.io",
     "domain": "terra.stakesystems.io",
+    "keybase": "7F82E4F0CAA26298",
     "weight": 1
   }, 
   {
     "name": "Stakebin",
     "website": "https://stakebin.io",
     "domain": "lcd.stakebin.io",
+    "keybase": "5E6E53AF37AEC3D8",
     "weight": 1
   }
 ]

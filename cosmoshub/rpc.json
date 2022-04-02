@@ -3,6 +3,7 @@
     "name": "Stakely",
     "website": "https://stakely.io",
     "domain": "cosmoshub-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
   {
@@ -15,6 +16,7 @@
     "name": "Stakesystems",
     "website": "https://stakesystems.io",
     "domain": "cosmoshub.stakesystems.io:2053",
+    "keybase": "7F82E4F0CAA26298",
     "weight": 1
   },
   {
@@ -27,12 +29,14 @@
     "name": "Blockapsis",
     "website": "https://blockapsis.com",
     "domain": "rpc-cosmoshub.blockapsis.com",
+    "keybase": "55AE6F8C61BF4749",
     "weight": 1
   },
   {
     "name": "Atomscan",
     "website": "https://atomscan.com",
     "domain": "rpc.atomscan.com",
+    "keybase": "70AA008324D8AFC9",
     "weight": 1
   }
 ]

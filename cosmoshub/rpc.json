@@ -38,5 +38,17 @@
     "domain": "rpc.atomscan.com",
     "keybase": "70AA008324D8AFC9",
     "weight": 1
+  },
+  {
+    "name": "Skystar Capital",
+    "website": "https://skystarcapital.xyz",
+    "domain": "cosmos.rpc.skystarcapital.xyz:26657",
+    "weight": 1
+  },
+  {
+    "name": "Validator Network",
+    "website": "https://validator.network",
+    "domain": "cosmoshub.validator.network",
+    "weight": 1
   }
 ]

@@ -45,5 +45,12 @@
     "domain": "cosmos.sg-1.online",
     "keybase": "48608633F99D1B60",
     "weight": 1
+  },
+  {
+    "name": "Ping Pub",
+    "website": "https://ping.pub",
+    "domain": "cosmos.api.ping.pub",
+    "keybase": "6783E9F948541962",
+    "weight": 1
   }
 ]

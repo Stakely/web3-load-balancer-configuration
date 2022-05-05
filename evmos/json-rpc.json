@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Evmos",
+    "website": "https://evmos.org/",
+    "domain": "eth.bd.evmos.org:8545",
+    "weight": 1
+  }
+]

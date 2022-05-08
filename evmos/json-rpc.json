@@ -1,7 +1,13 @@
 [
   {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "domain": "evmos-json-rpc-server-01.stakely.io",
+    "weight": 1.1
+  },
+  {
     "name": "Evmos",
-    "website": "https://evmos.org/",
+    "website": "https://evmos.org",
     "domain": "eth.bd.evmos.org:8545",
     "weight": 1
   }

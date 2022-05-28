@@ -5,5 +5,12 @@
     "domain": "terra-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com/",
+    "domain": "terra-rpc.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
   }
 ]

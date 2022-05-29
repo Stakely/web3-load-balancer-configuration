@@ -12,5 +12,12 @@
     "domain": "terra-rpc.polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
     "weight": 1
+  },
+  {
+    "name": "CryptoCrew",
+    "website": "https://ccvalidators.com",
+    "domain": "rpc.terrav2.ccvalidators.com",
+    "keybase": "9AE70F9E3EDA8956",
+    "weight": 1
   }
 ]

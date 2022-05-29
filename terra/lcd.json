@@ -18,5 +18,12 @@
     "website": "https://terra.money",
     "domain": "phoenix-lcd.terra.dev",
     "weight": 1
+  },
+  {
+    "name": "CryptoCrew",
+    "website": "https://ccvalidators.com",
+    "domain": "fcd.terrav2.ccvalidators.com",
+    "keybase": "9AE70F9E3EDA8956",
+    "weight": 1
   }
 ]

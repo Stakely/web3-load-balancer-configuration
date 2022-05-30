@@ -8,7 +8,7 @@
   },
   {
     "name": "Polkachu",
-    "website": "https://polkachu.com/",
+    "website": "https://polkachu.com",
     "domain": "terra-api.polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
     "weight": 1
@@ -24,6 +24,13 @@
     "website": "https://ccvalidators.com",
     "domain": "fcd.terrav2.ccvalidators.com",
     "keybase": "9AE70F9E3EDA8956",
+    "weight": 1
+  },
+  {
+    "name": "TdrSys",
+    "website": "https://www.tdrsys.com",
+    "domain": "terra2.tdrsys.com",
+    "keybase": "CE1C601631C41781",
     "weight": 1
   }
 ]

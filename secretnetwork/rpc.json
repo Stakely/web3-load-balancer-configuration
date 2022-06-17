@@ -2,49 +2,49 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "domain": "secretnetwork-rpc-server-01.stakely.io",
+    "url": "http://secretnetwork-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1
   },
   {
     "name": "Trivium",
     "website": "https://trivium.network",
-    "domain": "secret-4.api.trivium.network:26657",
+    "url": "https://secret-4.api.trivium.network:26657",
     "keybase": "1DAC06C56C7B2AC9",
     "weight": 1
   },
   {
     "name": "Ronin Ventures",
     "website": "https://roninventures.io",
-    "domain": "rpc.roninventures.io",
+    "url": "https://rpc.roninventures.io",
     "keybase": "F1EE93993775A52C",
     "weight": 1
   },
   {
     "name": "Blockpane",
     "website": "https://blockpane.com",
-    "domain": "scrt-rpc.blockpane.com",
+    "url": "https://scrt-rpc.blockpane.com",
     "keybase": "D75509198CE782A6",
     "weight": 1
   },
   {
     "name": "Forbole",
     "website": "https://forbole.com",
-    "domain": "rpc.secret.forbole.com",
+    "url": "https://rpc.secret.forbole.com",
     "keybase": "2861F5EE06627224",
     "weight": 1
   },
   {
     "name": "Consensus One",
     "website": "https://consensus.one",
-    "domain": "secret.rpc.consensus.one",
+    "url": "https://secret.rpc.consensus.one",
     "keybase": "38172502B043D302",
     "weight": 1
   },
   {
     "name": "SCRT Network",
     "website": "https://scrt.network",
-    "domain": "rpc.scrt.network",
+    "url": "https://rpc.scrt.network",
     "weight": 1
   }
 ]

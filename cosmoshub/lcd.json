@@ -2,54 +2,54 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "domain": "cosmoshub-lcd-server-01.stakely.io",
+    "url": "https://cosmoshub-lcd-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
   {
     "name": "Cosmos",
     "website": "https://cosmos.network",
-    "domain": "api.cosmos.network",
+    "url": "https://api.cosmos.network",
     "weight": 1
   },
   {
     "name": "Stakesystems",
     "website": "https://stakesystems.io",
-    "domain": "cosmoshub.stakesystems.io",
+    "url": "https://cosmoshub.stakesystems.io",
     "keybase": "7F82E4F0CAA26298",
     "weight": 1
   },
   {
     "name": "Keplr",
     "website": "https://keplr.app",
-    "domain": "lcd-cosmoshub.keplr.app",
+    "url": "https://lcd-cosmoshub.keplr.app",
     "weight": 1
   },
   {
     "name": "Blockapsis",
     "website": "https://blockapsis.com",
-    "domain": "lcd-cosmoshub.blockapsis.com",
+    "url": "https://lcd-cosmoshub.blockapsis.com",
     "keybase": "55AE6F8C61BF4749",
     "weight": 1
   },
   {
     "name": "Atomscan",
     "website": "https://atomscan.com",
-    "domain": "node.atomscan.com",
+    "url": "https://node.atomscan.com",
     "keybase": "70AA008324D8AFC9",
     "weight": 1
   },
   {
     "name": "SG-1",
     "website": "https://sg-1.online",
-    "domain": "cosmos.sg-1.online",
+    "url": "https://cosmos.sg-1.online",
     "keybase": "48608633F99D1B60",
     "weight": 1
   },
   {
     "name": "Ping Pub",
     "website": "https://ping.pub",
-    "domain": "cosmos.api.ping.pub",
+    "url": "https://cosmos.api.ping.pub",
     "keybase": "6783E9F948541962",
     "weight": 1
   }

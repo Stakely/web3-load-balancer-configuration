@@ -2,28 +2,28 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "domain": "terra-rpc-server-01.stakely.io",
+    "url": "https://terra-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
   {
     "name": "Polkachu",
     "website": "https://polkachu.com",
-    "domain": "terra-rpc.polkachu.com",
+    "url": "https://terra-rpc.polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
     "weight": 1
   },
   {
     "name": "CryptoCrew",
     "website": "https://ccvalidators.com",
-    "domain": "rpc.terrav2.ccvalidators.com",
+    "url": "https://rpc.terrav2.ccvalidators.com",
     "keybase": "9AE70F9E3EDA8956",
     "weight": 1
   },
   {
     "name": "TdrSys",
     "website": "https://www.tdrsys.com",
-    "domain": "terra2.tdrsys.com:2053",
+    "url": "https://terra2.tdrsys.com:2053",
     "keybase": "CE1C601631C41781",
     "weight": 1
   }

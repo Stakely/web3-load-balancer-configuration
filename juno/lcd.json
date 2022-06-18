@@ -2,42 +2,42 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "domain": "juno-lcd-server-01.stakely.io",
+    "url": "https://juno-lcd-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
   {
     "name": "Omniflix",
     "website": "https://omniflix.co",
-    "domain": "api.juno.omniflix.co",
+    "url": "https://api.juno.omniflix.co",
     "keybase": "535BF8D68742ACED",
     "weight": 0.6
   },
   {
     "name": "Itastakers",
     "website": "https://itastakers.com",
-    "domain": "lcd-juno.itastakers.com",
+    "url": "https://lcd-juno.itastakers.com",
     "keybase": "06E7A073C20F48EA",
     "weight": 1
   },
   {
     "name": "Nodes Guru",
     "website": "https://nodes.guru",
-    "domain": "api-juno.nodes.guru",
+    "url": "https://api-juno.nodes.guru",
     "keybase": "28B672FCE6BBD562",
     "weight": 1
   },
   {
     "name": "Stakesystems",
     "website": "https://stakesystems.io",
-    "domain": "juno.stakesystems.io",
+    "url": "https://juno.stakesystems.io",
     "keybase": "7F82E4F0CAA26298",
     "weight": 1
   },
   {
     "name": "Keplr",
     "website": "https://keplr.app",
-    "domain": "lcd-juno.keplr.app",
+    "url": "https://lcd-juno.keplr.app",
     "weight": 1
   }
 ]

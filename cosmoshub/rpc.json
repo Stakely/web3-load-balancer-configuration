@@ -38,11 +38,5 @@
     "url": "https://rpc.atomscan.com",
     "keybase": "70AA008324D8AFC9",
     "weight": 1
-  },
-  {
-    "name": "Validator Network",
-    "website": "https://validator.network",
-    "url": "https://cosmoshub.validator.network",
-    "weight": 1
   }
 ]

@@ -13,7 +13,9 @@ All these contributors are displayed on the load balancer home page.
 
 ## Main features of this load balancer:
 - Node health monitoring
+- CORS access enabled 
 - Re-routing requests on failures
+- Re-trying requests on 10s node timeout 
 - Intelligent request caching mechanism
 - Deployed on a distributed infrastructure
 - Webpage with stats and contributors for each service
@@ -43,4 +45,8 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Juno:
   - LCD: https://juno-lcd.stakely.io
   - RPC: https://juno-rpc.stakely.io
-
+- Secret Network:
+  - LCD: https://secretnetwork-lcd.stakely.io
+  - RPC: https://secretnetwork-rpc.stakely.io
+- Evmos:
+  - JSON-RPC: https://evmos-json-rpc.stakely.io

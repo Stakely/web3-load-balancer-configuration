@@ -46,5 +46,12 @@
     "website": "https://scrt.network",
     "url": "https://rpc.scrt.network",
     "weight": 1
+  },
+  {
+    "name": "Digiline",
+    "website": "https://scrt-validator.digiline.io",
+    "url": "https://scrt-validator.digiline.io:26657",
+    "keybase": "B79C4CC2CE03C4A3",
+    "weight": 1
   }
 ]

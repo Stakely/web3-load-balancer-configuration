@@ -1,4 +1,4 @@
-# Stakely Web3 load blancer configuration
+# Stakely Web3 load balancer configuration
 ### Public configuration files for the multi-chain intelligent load balancer
 
 <br>

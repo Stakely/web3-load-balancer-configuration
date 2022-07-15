@@ -1,4 +1,4 @@
-# Stakely Web3 load blancer configuration
+# Stakely Web3 load balancer configuration
 ### Public configuration files for the multi-chain intelligent load balancer
 
 <br>
@@ -36,7 +36,7 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 <br>
 
 ## Available endpoints and stats page
-- Cosmoshub:
+- Cosmos Hub:
   - LCD: https://cosmoshub-lcd.stakely.io
   - RPC: https://cosmoshub-rpc.stakely.io
 - Terra:

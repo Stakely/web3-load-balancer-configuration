@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://agoric-lcd-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://agoric-api.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Agoric",
+    "website": "https://agoric.net",
+    "url": "https://main.api.agoric.net",
+    "weight": 1
+  },
+  {
+    "name": "Nodes Guru",
+    "website": "https://nodes.guru",
+    "url": "https://api-agoric.nodes.guru",
+    "keybase": "28B672FCE6BBD562",
+    "weight": 1
+  },
+  {
+    "name": "Sgtstake",
+    "website": "https://sgtstake.com",
+    "url": "https://api.agoric.sgtstake.com",
+    "keybase": "19185C91586D50DC",
+    "weight": 1
+  },
+  {
+    "name": "Stakesystems",
+    "website": "https://stakesystems.io",
+    "url": "https://agoric.stakesystems.io",
+    "keybase": "7F82E4F0CAA26298",
+    "weight": 1
+  }
+]

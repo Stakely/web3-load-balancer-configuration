@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://agoric-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://agoric-rpc.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Agoric",
+    "website": "https://agoric.net",
+    "url": "https://main.rpc.agoric.net",
+    "weight": 1
+  },
+  {
+    "name": "Stakeangle",
+    "website": "https://stakeangle.com",
+    "url": "https://agoric-rpc.stakeangle.com",
+    "keybase": "0C2EBFF70582B725",
+    "weight": 1
+  },
+  {
+    "name": "Sgtstake",
+    "website": "https://sgtstake.com",
+    "url": "https://rpc.agoric.sgtstake.com",
+    "keybase": "19185C91586D50DC",
+    "weight": 1
+  },
+  {
+    "name": "Nodeasy",
+    "website": "https://www.nodeasy.com",
+    "url": "http://agoric-rpc.nodeasy.com:31261",
+    "keybase": "F7BABF2C95B02A9F",
+    "weight": 1
+  },
+  {
+    "name": "Nodes Guru",
+    "website": "https://nodes.guru",
+    "url": "https://rpc-agoric.nodes.guru",
+    "keybase": "28B672FCE6BBD562",
+    "weight": 1
+  },
+  {
+    "name": "Earnx",
+    "website": "https://earnx.io",
+    "url": "https://agoric-rpc.earnx.io/public",
+    "keybase": "4B0D604AB7A4E480",
+    "weight": 1
+  },
+  {
+    "name": "Pathrocknetwork",
+    "website": "https://pathrocknetwork.org",
+    "url": "https://agoric.pathrocknetwork.org",
+    "keybase": "8E9797A900A7A429",
+    "weight": 1
+  },
+  {
+    "name": "Stakesystems",
+    "website": "https://stakesystems.io",
+    "url": "https://agoric.stakesystems.io:2053",
+    "keybase": "7F82E4F0CAA26298",
+    "weight": 1
+  }
+]

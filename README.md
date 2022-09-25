@@ -50,6 +50,8 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - RPC: https://secretnetwork-rpc.stakely.io
 - Evmos:
   - JSON-RPC: https://evmos-json-rpc.stakely.io
+  - LCD: https://evmos-lcd.stakely.io
+  - RPC: https://evmos-rpc.stakely.io
 - Agoric:
   - LCD: https://agoric-lcd.stakely.io
   - RPC: https://agoric-rpc.stakely.io

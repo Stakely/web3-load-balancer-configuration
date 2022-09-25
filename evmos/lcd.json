@@ -5,5 +5,39 @@
     "url": "https://evmos-lcd-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1
+  },
+  {
+    "name": "Evmos",
+    "website": "https://evmos.org",
+    "url": "https://rest.bd.evmos.org:1317",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "website": "https://notional.ventures",
+    "url": "https://api-evmos-ia.cosmosia.notional.ventures",
+    "keybase": "0E480E2B83B23D80",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "website": "https://nodestake.top",
+    "url": "https://api.evmos.nodestake.top",
+    "keybase": "94EFE192B2C52424",
+    "weight": 1
+  },
+  {
+    "name": "ChainTools",
+    "website": "https://chaintools.tech",
+    "url": "https://api.evmos.chaintools.tech",
+    "keybase": "1857FF1BC2EA6A69",
+    "weight": 1
+  },
+  {
+    "name": "Silk Nodes",
+    "website": "https://silknodes.io",
+    "url": "https://api.evmos.silknodes.io",
+    "keybase": "1326A75B9148A214",
+    "weight": 1
   }
 ]

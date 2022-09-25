@@ -15,8 +15,15 @@
   {
     "name": "Notional",
     "website": "https://notional.ventures",
-    "url": "https://jsonrpc-evmos-ia.notional.ventures",
+    "url": "https://jsonrpc-evmos-ia.cosmosia.notional.ventures",
     "keybase": "0E480E2B83B23D80",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "website": "https://nodestake.top",
+    "url": "https://jsonrpc.evmos.nodestake.top",
+    "keybase": "94EFE192B2C52424",
     "weight": 1
   }
 ]

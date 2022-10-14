@@ -25,5 +25,17 @@
     "url": "https://jsonrpc.evmos.nodestake.top",
     "keybase": "94EFE192B2C52424",
     "weight": 1
+  },
+  {
+    "name": "Blastapi",
+    "website": "https://blastapi.io",
+    "url": "https://evmos-mainnet.public.blastapi.io",
+    "weight": 1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://evmos-evm.publicnode.com",
+    "weight": 1
   }
 ]

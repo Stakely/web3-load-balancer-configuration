@@ -39,5 +39,11 @@
     "url": "https://rpc.evmos.silknodes.io",
     "keybase": "1326A75B9148A214",
     "weight": 1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://evmos-rpc.publicnode.com",
+    "weight": 1
   }
 ]

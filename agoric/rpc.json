@@ -67,5 +67,12 @@
     "url": "https://agoric.stakesystems.io:2053",
     "keybase": "7F82E4F0CAA26298",
     "weight": 1
+  },
+  {
+    "name": "kjnodes",
+    "website": "https://kjnodes.com",
+    "url": "https://agoric.rpc.kjnodes.com",
+    "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
   }
 ]

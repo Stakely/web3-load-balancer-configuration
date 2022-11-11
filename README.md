@@ -55,3 +55,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Agoric:
   - LCD: https://agoric-lcd.stakely.io
   - RPC: https://agoric-rpc.stakely.io
+- Osmosis:
+  - LCD: https://osmosis-lcd.stakely.io
+  - RPC: https://osmosis-lcd.stakely.io

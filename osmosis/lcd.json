@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://osmosis-lcd-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1
+  },
+  {
+    "name": "Osmosis Foundation",
+    "website": "https://osmosis.zone",
+    "url": "https://lcd.osmosis.zone",
+    "weight": 1
+  },
+  {
+    "name": "Blockapsis",
+    "website": "https://blockapsis.com",
+    "url": "https://lcd-osmosis.blockapsis.com",
+    "keybase": "55AE6F8C61BF4749",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://osmosis-api.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Quickapi",
+    "website": "https://quickapi.com",
+    "url": "https://osmosis-lcd.quickapi.com",
+    "weight": 1
+  },
+  {
+    "name": "Ecostake",
+    "website": "https://ecostake.com",
+    "url": "https://rest-osmosis.ecostake.com",
+    "keybase": "5992A6D423A406D6",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "website": "https://notional.ventures",
+    "url": "https://api-osmosis-ia.cosmosia.notional.ventures",
+    "keybase": "0E480E2B83B23D80",
+    "weight": 1
+  },
+  {
+    "name": "Interbloc",
+    "website": "https://interbloc.org",
+    "url": "https://api.osmosis.interbloc.org",
+    "weight": 1
+  },
+  {
+    "name": "Silknodes",
+    "website": "https://www.silknodes.io",
+    "url": "https://api.osmosis.silknodes.io",
+    "keybase": "1326A75B9148A214",
+    "weight": 1
+  }
+]

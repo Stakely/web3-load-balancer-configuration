@@ -32,5 +32,18 @@
     "website": "https://scrt.network",
     "url": "https://api.scrt.network",
     "weight": 1
+  },
+  {
+    "name": "Spartanapi",
+    "website": "https://spartanapi.dev",
+    "url": "https://lcd.spartanapi.dev",
+    "weight": 1
+  },
+  {
+    "name": "Agoranodes",
+    "website": "https://agoranodes.com",
+    "url": "https://scrt-lcd.agoranodes.com",
+    "keybase": "89BE1A153AC17E34",
+    "weight": 1
   }
 ]

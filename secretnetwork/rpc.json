@@ -39,5 +39,32 @@
     "url": "https://scrt-validator.digiline.io:26657",
     "keybase": "B79C4CC2CE03C4A3",
     "weight": 1
+  },
+  {
+    "name": "Agoranodes",
+    "website": "https://agoranodes.com",
+    "url": "https://scrt-rpc.agoranodes.com",
+    "keybase": "89BE1A153AC17E34",
+    "weight": 1
+  },
+  {
+    "name": "Spartanapi",
+    "website": "https://spartanapi.dev",
+    "url": "https://rpc.spartanapi.dev",
+    "weight": 1
+  },
+  {
+    "name": "Agoranodes",
+    "website": "https://agoranodes.com",
+    "url": "https://scrt-rpc.agoranodes.com",
+    "keybase": "89BE1A153AC17E34",
+    "weight": 1
+  },
+  {
+    "name": "SCRT Labs",
+    "website": "https://scrtlabs.com",
+    "url": "https://keplr-gateway.scrtlabs.com/rpc",
+    "keybase": "56D76B2DB6E742DC",
+    "weight": 1
   }
 ]

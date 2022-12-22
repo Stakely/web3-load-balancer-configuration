@@ -46,5 +46,39 @@
     "url": "https://cosmos.api.ping.pub",
     "keybase": "6783E9F948541962",
     "weight": 1
+  },
+  {
+    "name": "chainapsis",
+    "website": "https://blockapsis.com",
+    "url": "https://lcd-cosmoshub.blockapsis.com",
+    "weight": 1
+  },
+  {
+    "name": "DragonStake",
+    "website": "https://dragonstake.io",
+    "url": "https://lcd.cosmos.dragonstake.io",
+    "keybase": "EA61A46F31742B22",
+    "weight": 1
+  },
+  {
+    "name": "PUPMØS",
+    "website": "https://twitter.com/pupmos",
+    "url": "https://api-cosmoshub.pupmos.network",
+    "keybase": "69A46F39FB01F4D4",
+    "weight": 1
+  },
+  {
+    "name": "Stakin",
+    "website": "https://stakin.com",
+    "url": "https://cosmoshub.rest.stakin-nodes.com",
+    "keybase": "83D300CB42D06962",
+    "weight": 1
+  },
+  {
+    "name": "Architect Nodes",
+    "website": "https://architectnodes.com",
+    "url": "https://rest-cosmoshub.architectnodes.com",
+    "keybase": "AB730C3A241BB718",
+    "weight": 1
   }
 ]

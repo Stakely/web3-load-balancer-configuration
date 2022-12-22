@@ -32,5 +32,39 @@
     "url": "https://rpc.atomscan.com",
     "keybase": "70AA008324D8AFC9",
     "weight": 1
+  },
+  {
+    "name": "chainapsis",
+    "website": "https://blockapsis.com",
+    "url": "https://rpc-cosmoshub.blockapsis.com",
+    "weight": 1
+  },
+  {
+    "name": "DragonStake",
+    "website": "https://dragonstake.io",
+    "url": "https://rpc.cosmos.dragonstake.io",
+    "keybase": "EA61A46F31742B22",
+    "weight": 1
+  },
+  {
+    "name": "PUPMØS",
+    "website": "https://twitter.com/pupmos",
+    "url": "https://rpc-cosmoshub.pupmos.network",
+    "keybase": "69A46F39FB01F4D4",
+    "weight": 1
+  },
+  {
+    "name": "Stakin",
+    "website": "https://stakin.com",
+    "url": "https://cosmoshub.rpc.stakin-nodes.com",
+    "keybase": "83D300CB42D06962",
+    "weight": 1
+  },
+  {
+    "name": "Architect Nodes",
+    "website": "https://architectnodes.com",
+    "url": "https://rpc-cosmoshub.architectnodes.com",
+    "keybase": "AB730C3A241BB718",
+    "weight": 1
   }
 ]

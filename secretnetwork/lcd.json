@@ -45,5 +45,17 @@
     "url": "https://scrt-lcd.agoranodes.com",
     "keybase": "89BE1A153AC17E34",
     "weight": 1
+  },
+  {
+    "name": "Scrtlabs",
+    "website": "https://www.scrtlabs.com",
+    "url": "https://keplr-gateway.scrtlabs.com/lcd",
+    "weight": 1
+  },
+  {
+    "name": "Unknown",
+    "website": "https://scrt.network",
+    "url": "https://bridgeapi.azure-api.net/lb/lcd",
+    "weight": 1
   }
 ]

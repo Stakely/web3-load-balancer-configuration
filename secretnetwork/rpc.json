@@ -66,5 +66,12 @@
     "url": "https://keplr-gateway.scrtlabs.com/rpc",
     "keybase": "56D76B2DB6E742DC",
     "weight": 1
+  },
+  {
+    "name": "Lavender.Five",
+    "website": "https://www.lavenderfive.com",
+    "url": "https://secret-rpc.lavenderfive.com",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
   }
 ]

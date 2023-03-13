@@ -57,5 +57,11 @@
     "website": "https://scrt.network",
     "url": "https://bridgeapi.azure-api.net/lb/lcd",
     "weight": 1
+  },
+  {
+    "name": "Secret Express API",
+    "website": "https://secret.express",
+    "url": "https://lcd.secret.express",
+    "weight": 1
   }
 ]

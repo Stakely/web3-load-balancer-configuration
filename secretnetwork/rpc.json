@@ -73,5 +73,11 @@
     "url": "https://secret-rpc.lavenderfive.com",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
+  },
+  {
+    "name": "Secret Express API",
+    "website": "https://secret.express",
+    "url": "https://rpc.secret.express",
+    "weight": 1
   }
 ]

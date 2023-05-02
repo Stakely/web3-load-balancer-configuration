@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "url": "https://quasar-rpc.lavenderfive.com",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "name": "Enigma Validator",
+    "website": "https://enigma-validator.com",
+    "url": "https://quasar-rpc.enigma-validator.com",
+    "keybase": "6223697ACA24A4FF",
+    "weight": 1
+  },
+  {
+    "name": "kjnodes",
+    "website": "https://kjnodes.com/",
+    "url": "https://quasar.rpc.kjnodes.com",
+    "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://quasar-rpc.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Whispernode",
+    "website": "https://www.whispernode.com",
+    "url": "https://rpc-quasar.whispernode.com",
+    "keybase": "9C7571030BEF5157",
+    "weight": 1
+  }
+]

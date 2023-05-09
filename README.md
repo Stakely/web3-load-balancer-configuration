@@ -58,3 +58,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Osmosis:
   - LCD: https://osmosis-lcd.stakely.io
   - RPC: https://osmosis-lcd.stakely.io
+- Quasar:
+  - LCD: https://quasar-lcd.stakely.io
+  - RPC: https://quasar-rpc.stakely.io

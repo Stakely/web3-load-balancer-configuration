@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Stakely",
+      "website": "https://stakely.io",
+      "url": "https://injective-lcd-server-01.stakely.io/",
+      "keybase": "55A5F88B4ED52D3E",
+      "weight": 1.1
+    },
+    {
+      "name": "Polkachu",
+      "website": "https://polkachu.com",
+      "url": "https://injective-api.polkachu.com",
+      "keybase": "0A6AF02D1557E5B4",
+      "weight": 1
+    },
+    {
+      "name": "Publicnode",
+      "website": "https://publicnode.com",
+      "url": "https://injective-rest.publicnode.com",
+      "weight": 1
+    },
+    {
+      "name": "Lavender.Five Nodes 🐝",
+      "website": "https://www.lavenderfive.com",
+      "url": "https://injective-api.lavenderfive.com/",
+      "keybase": "F87ADDB700C0CC94",
+      "weight": 1
+    },
+    {
+      "name": "High Stakes Switzerland",
+      "website": "https://highstakes.ch/",
+      "url": "https://injective-api.highstakes.ch/",
+      "keybase": "2CB281A714F6133B",
+      "weight": 1
+    },
+    {
+      "name": "Whispernode",
+      "website": "https://www.whispernode.com",
+      "url": "https://lcd-injective.whispernode.com",
+      "keybase": "C99B3A6836BF0CB8",
+      "weight": 1
+    },
+    {
+      "name": "Golden Ratio Staking",
+      "website": "https://www.goldenstaking.com/",
+      "url": "https://rest-injective.goldenratiostaking.net/",
+      "keybase": "1C32EF4035953E8B",
+      "weight": 1
+    },
+    {
+      "name": "Stake Wolle",
+      "website": "https://stakewolle.com/",
+      "url": "https://public.stakewolle.com/cosmos/injective/rest/",
+      "keybase": "6386E8C1B6217AC2",
+      "weight": 1
+    }
+]

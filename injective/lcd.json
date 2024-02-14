@@ -53,5 +53,12 @@
       "url": "https://public.stakewolle.com/cosmos/injective/rest/",
       "keybase": "6386E8C1B6217AC2",
       "weight": 1
+    },
+    {
+      "name": "Injective",
+      "website": "https://injective.com/",
+      "url": "https://lcd.injective.network/",
+      "keybase": "54EEBB62B7D58830",
+      "weight": 1
     }
 ]

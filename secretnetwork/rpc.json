@@ -70,7 +70,7 @@
   {
     "name": "Lavender.Five",
     "website": "https://www.lavenderfive.com",
-    "url": "https://secret-rpc.lavenderfive.com",
+    "url": "https://secretnetwork-rpc.lavenderfive.com",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
@@ -78,6 +78,27 @@
     "name": "Secret Express API",
     "website": "https://secret.express",
     "url": "https://rpc.secret.express",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes Switzerland",
+    "website": "https://highstakes.ch/",
+    "url": "https://secretnetwork-rpc.highstakes.ch/",
+    "keybase": "2CB281A714F6133B",
+    "weight": 1
+  },
+  {
+    "name": "Secret Saturn",
+    "website": "https://github.com/secretsaturn",
+    "url": "https://rpc.mainnet.secretsaturn.net",
+    "keybase": "C5DEF76D88D11E5F",
+    "weight": 1
+  },
+  {
+    "name": "01 Node",
+    "website": "https://01node.com/",
+    "url": "https://rpc-secret.01node.com",
+    "keybase": "7BDD4C2E94392626",
     "weight": 1
   }
 ]

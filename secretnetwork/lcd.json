@@ -63,5 +63,26 @@
     "website": "https://secret.express",
     "url": "https://lcd.secret.express",
     "weight": 1
+  },
+  {
+    "name": "High Stakes Switzerland",
+    "website": "https://highstakes.ch/",
+    "url": "https://secretnetwork-api.highstakes.ch/",
+    "keybase": "2CB281A714F6133B",
+    "weight": 1
+  },
+  {
+    "name": "Secret Saturn",
+    "website": "https://github.com/secretsaturn",
+    "url": "https://lcd.mainnet.secretsaturn.net",
+    "keybase": "C5DEF76D88D11E5F",
+    "weight": 1
+  },
+  {
+    "name": "01 Node",
+    "website": "https://01node.com/",
+    "url": "https://rest-secret.01node.com",
+    "keybase": "7BDD4C2E94392626",
+    "weight": 1
   }
 ]

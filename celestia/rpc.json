@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://celestia-rpc-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "url": "https://public-celestia-rpc.numia.xyz",
+    "name": "Numia",
+    "website": "https://numia.xyz",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.mesa.newmetric.xyz",
+    "name": "Newmetric",
+    "website": "https://newmetric.xyz",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.lunaroasis.net",
+    "name": "Lunar Oasis",
+    "website": "https://lunaroasis.net",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.celestia.nodestake.top",
+    "name": "NodeStake",
+    "website": "https://nodestake.top",
+    "keybase": "94EFE192B2C52424",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.lavenderfive.com:443",
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-celestia-01.stakeflow.io",
+    "name": "Stakeflow",
+    "website": "https://stakeflow.io",
+    "keybase": "205B591721D10A73",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-celestia.cosmos-spaces.cloud",
+    "name": "Cosmos Spaces",
+    "website": "https://cosmos-spaces.cloud",
+    "keybase":"06B033BAC39DA21C",
+    "weight": 1
+  },
+  {
+    "url": "http://celestia.rpc.nodersteam.com:29657",
+    "name": "[NODERS]TEAM",
+    "website": "https://nodersteam.com",
+    "keybase": "220491ADDD660741",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.rpc.interchain.validao.xyz",
+    "name": "ValiDAO",
+    "website": "https://validao.xyz",
+    "keybase": "7B0C7424E7138692",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.publicnode.com:443",
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.rpc.stakin-nodes.com",
+    "name": "Stakin",
+    "website": "https://stakin.com",
+    "keybase": "83D300CB42D06962",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.rpc.kjnodes.com",
+    "name": "Kjnodes",
+    "website": "https://kjnodes.com",
+    "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.polkachu.com",
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-celestia.mzonder.com",
+    "name": "MZONDER",
+    "website": "https://mzonder.com",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.enigma-validator.com",
+    "name": "Enigma",
+    "website": "https://enigma-validator.com",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-celestia.theamsolutions.info",
+    "name": "AM Solutions",
+    "website": "https://theamsolutions.info",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-mainnet-rpc.autostake.com:443",
+    "name": "AutoStake",
+    "website": "https://autostake.com/",
+    "keybase": "4D3303E20A4D2C32",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.celestia.validatus.com",
+    "name": "Validatus",
+    "website": "https://validatus.com",
+    "keybase": "DEF3590B1DCD96A4",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.sr20de.xyz",
+    "name": "Sr20de",
+    "website": "https://sr20de.xyz",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-celestia-full.avril14th.org",
+    "name": "Avril 14th",
+    "website": "https://avril14th.org",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.freshstaking.com/celestia",
+    "name": "FreshSTAKING",
+    "website": "https://freshstaking.com",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.cumulo.org.es/",
+    "name": "Cumulo",
+    "website": "https://cumulo.org.es",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rpc.stake-town.com",
+    "name": "StakeTown",
+    "website": "https://stake-town.com",
+    "keybase": "FE38D8D1E0E5011F",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.celestia-app.bronbro.io",
+    "name": "Bro_n_Bro",
+    "website": "https://bronbro.io",
+    "keybase": "A57DAB9B09C7215D",
+    "weight": 1
+  }
+]

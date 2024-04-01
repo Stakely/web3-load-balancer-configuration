@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://celestia-lcd-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "url": "https://public-celestia-lcd.numia.xyz",
+    "name": "Numia",
+    "website": "https://numia.xyz",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rest.mesa.newmetric.xyz",
+    "name": "Newmetric",
+    "website": "https://newmetric.xyz",
+    "weight": 1
+  },
+  {
+    "url": "http://celestia.rpc.nodersteam.com:1617",
+    "name": "[NODERS]TEAM",
+    "website": "https://nodersteam.com",
+    "keybase": "220491ADDD660741",
+    "weight": 1
+  },
+  {
+    "url": "https://api.lunaroasis.net",
+    "name": "Lunar Oasis",
+    "website": "https://lunaroasis.net",
+    "weight": 1
+  },
+  {
+    "url": "https://api.celestia.nodestake.top",
+    "name": "NodeStake",
+    "website": "https://nodestake.top",
+    "keybase": "94EFE192B2C52424",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-api.lavenderfive.com:443",
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "url": "https://api-celestia-01.stakeflow.io",
+    "name": "Stakeflow",
+    "website": "https://stakeflow.io",
+    "keybase": "205B591721D10A73",
+    "weight": 1
+  },
+  {
+    "url": "https://api-celestia.cosmos-spaces.cloud",
+    "name": "Cosmos Spaces",
+    "website": "https://cosmos-spaces.cloud",
+    "keybase":"06B033BAC39DA21C",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.rest.interchain.validao.xyz",
+    "name": "ValiDAO",
+    "website": "https://validao.xyz",
+    "keybase": "7B0C7424E7138692",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-rest.publicnode.com",
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.rest.stakin-nodes.com",
+    "name": "Stakin",
+    "website": "https://stakin.com",
+    "keybase": "83D300CB42D06962",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.api.kjnodes.com",
+    "name": "kjnodes",
+    "website": "https://kjnodes.com",
+    "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
+  },
+  {
+    "url": "https://api-celestia.mzonder.com",
+    "name": "MZONDER",
+    "website": "https://mzonder.com",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-lcd.enigma-validator.com",
+    "name": "Enigma",
+    "website": "https://enigma-validator.com",
+    "weight": 1
+  },
+  {
+    "url": "https://rest-celestia.theamsolutions.info",
+    "name": "AM Solutions",
+    "website": "https://theamsolutions.info",
+    "weight": 1
+  },
+  {
+    "url": "https://api.celestia.validatus.com",
+    "name": "Validatus",
+    "website": "https://validatus.com",
+    "keybase": "DEF3590B1DCD96A4",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-api.sr20de.xyz",
+    "name": "Sr20de",
+    "website": "https://sr20de.xyz",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-mainnet-lcd.autostake.com:443",
+    "name": "AutoStake",
+    "website": "https://autostake.com/",
+    "keybase": "4D3303E20A4D2C32",
+    "weight": 1
+  },
+  {
+    "url": "https://api-celestia-full.avril14th.org",
+    "name": "Avril 14th",
+    "website": "https://avril14th.org",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia.api.cumulo.org.es",
+    "name": "Cumulo",
+    "website": "https://cumulo.org.es",
+    "weight": 1
+  },
+  {
+    "url": "https://celestia-api.stake-town.com",
+    "name": "StakeTown",
+    "website": "https://stake-town.com",
+    "keybase": "FE38D8D1E0E5011F",
+    "weight": 1
+  },
+  {
+    "url": "https://lcd.celestia-app.bronbro.io",
+    "name": "Bro_n_Bro",
+    "website": "https://bronbro.io",
+    "keybase": "A57DAB9B09C7215D",
+    "weight": 1
+  }
+]

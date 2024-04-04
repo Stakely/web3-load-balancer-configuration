@@ -16,7 +16,7 @@
   {
     "name": "Agoric",
     "website": "https://agoric.net",
-    "url": "https://main.rpc.agoric.net",
+    "url": "https://main.rpc.agoric.net:443",
     "weight": 1
   },
   {
@@ -73,6 +73,60 @@
     "website": "https://kjnodes.com",
     "url": "https://agoric.rpc.kjnodes.com",
     "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://rpc.agoric.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "AutoStake 🛡️ Slash Protected",
+    "url": "https://agoric-mainnet-rpc.autostake.com:443",
+    "website": "https://autostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-agoric-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "0base.vc",
+    "url": "https://agoric-rpc.0base.dev",
+    "website": "https://0base.dev",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://agoric-rpc.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "name": "StakeWithUs",
+    "url": "https://rpc.agoric.stakewith.us",
+    "website": "https://stakewith.us",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "url": "https://rpc-agoric-ia.cosmosia.notional.ventures",
+    "website": "https://notional.ventures",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://agoric-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.agoric.bronbro.io:443",
+    "website": "https://bronbro.io",
     "weight": 1
   }
 ]

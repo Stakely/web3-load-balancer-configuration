@@ -49,7 +49,7 @@
     "url": "https://rpc-celestia.cosmos-spaces.cloud",
     "name": "Cosmos Spaces",
     "website": "https://cosmos-spaces.cloud",
-    "keybase":"06B033BAC39DA21C",
+    "keybase": "06B033BAC39DA21C",
     "weight": 1
   },
   {
@@ -161,6 +161,12 @@
     "name": "Bro_n_Bro",
     "website": "https://bronbro.io",
     "keybase": "A57DAB9B09C7215D",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://celestia-rpc.noders.services",
+    "website": "https://noders.services",
     "weight": 1
   }
 ]

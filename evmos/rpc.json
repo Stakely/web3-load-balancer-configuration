@@ -15,7 +15,7 @@
   {
     "name": "Notional",
     "website": "https://notional.ventures",
-    "url": "https://rpc-evmos-ia.cosmosia.notional.ventures",
+    "url": "https://rpc-evmos-ia.cosmosia.notional.ventures:443",
     "keybase": "0E480E2B83B23D80",
     "weight": 1
   },
@@ -29,7 +29,7 @@
   {
     "name": "ChainTools",
     "website": "https://chaintools.tech",
-    "url": "https://rpc.evmos.chaintools.tech",
+    "url": "https://rpc.evmos.chaintools.tech/",
     "keybase": "1857FF1BC2EA6A69",
     "weight": 1
   },
@@ -43,7 +43,121 @@
   {
     "name": "Publicnode",
     "website": "https://publicnode.com",
-    "url": "https://evmos-rpc.publicnode.com",
+    "url": "https://evmos-rpc.publicnode.com:443",
+    "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rpc-evmos.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://evmos-rpc.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "TestNetRun",
+    "url": "https://rpc.evmos.testnet.run",
+    "website": "https://testnet.run",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "url": "https://evmos-rpc.polkachu.com",
+    "website": "https://polkachu.com",
+    "weight": 1
+  },
+  {
+    "name": "silent",
+    "url": "https://rpc.evmos.silentvalidator.com/",
+    "website": "https://silentvalidator.com/",
+    "weight": 1
+  },
+  {
+    "name": "TC Network",
+    "url": "https://rpc.evmos.tcnetwork.io",
+    "website": "https://tcnetwork.io",
+    "weight": 1
+  },
+  {
+    "name": "Stakin",
+    "url": "https://evmos.rpc.stakin-nodes.com",
+    "website": "https://stakin-nodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Architect Nodes",
+    "url": "https://rpc-evmos.architectnodes.com",
+    "website": "https://architectnodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Validatrium",
+    "url": "https://evmos-rpc.validatrium.club",
+    "website": "https://validatrium.club",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-evmos-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "AM Solutions",
+    "url": "https://evmos-rpc.theamsolutions.info",
+    "website": "https://theamsolutions.info",
+    "weight": 1
+  },
+  {
+    "name": "Validavia",
+    "url": "https://rpc-evmos.validavia.me",
+    "website": "https://validavia.me",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://evmos-rpc.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "name": "StakeTown",
+    "url": "https://evmos-rpc.stake-town.com",
+    "website": "https://stake-town.com",
+    "weight": 1
+  },
+  {
+    "name": "LiveRaveN",
+    "url": "https://evmos.rpc.liveraven.net",
+    "website": "https://liveraven.net",
+    "weight": 1
+  },
+  {
+    "name": "Antrix Validators",
+    "url": "https://evmos-rpc.antrixy.org/",
+    "website": "https://antrixy.org/",
+    "weight": 1
+  },
+  {
+    "name": "Stake Village",
+    "url": "https://evmos-mainnet.rpc.stakevillage.net:443",
+    "website": "https://stakevillage.net",
+    "weight": 1
+  },
+  {
+    "name": "Validatus",
+    "url": "https://rpc.evmos.validatus.com",
+    "website": "https://validatus.com",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.evmos.bronbro.io:443",
+    "website": "https://bronbro.io",
     "weight": 1
   }
 ]

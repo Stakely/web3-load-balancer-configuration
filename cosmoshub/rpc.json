@@ -66,5 +66,179 @@
     "url": "https://rpc-cosmoshub.architectnodes.com",
     "keybase": "AB730C3A241BB718",
     "weight": 1
+  },
+  {
+    "name": "Chainlayer",
+    "url": "https://cosmos-rpc.quickapi.com:443",
+    "website": "https://quickapi.com",
+    "weight": 1
+  },
+  {
+    "name": "Oni Validator ⛩️",
+    "url": "https://cosmos-rpc.onivalidator.com",
+    "website": "https://onivalidator.com",
+    "weight": 1
+  },
+  {
+    "name": "WhisperNode 🤐",
+    "url": "https://rpc-cosmoshub.whispernode.com:443",
+    "website": "https://whispernode.com",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://cosmoshub-rpc.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "strangelove-ventures",
+    "url": "https://rpc.cosmoshub.strange.love",
+    "website": "https://strange.love",
+    "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rpc-cosmoshub.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Cosmos Spaces",
+    "url": "https://rpc-cosmoshub.cosmos-spaces.cloud",
+    "website": "https://cosmos-spaces.cloud",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "url": "https://cosmos-rpc.polkachu.com",
+    "website": "https://polkachu.com",
+    "weight": 1
+  },
+  {
+    "name": "Staketab",
+    "url": "https://cosmos-rpc.staketab.org:443",
+    "website": "https://staketab.org",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "url": "https://rpc-cosmoshub-ia.cosmosia.notional.ventures/",
+    "website": "https://notional.ventures/",
+    "weight": 1
+  },
+  {
+    "name": "BlockHunters 🎯",
+    "url": "https://rpc.cosmos.bh.rocks",
+    "website": "https://bh.rocks",
+    "weight": 1
+  },
+  {
+    "name": "RockawayX Infra",
+    "url": "https://cosmos-rpc.rockrpc.net",
+    "website": "https://rockrpc.net",
+    "weight": 1
+  },
+  {
+    "name": "FreshSTAKING",
+    "url": "http://rpc-cosmoshub.freshstaking.com:26657",
+    "website": "https://freshstaking.com",
+    "weight": 1
+  },
+  {
+    "name": "Easy 2 Stake",
+    "url": "https://cosmos-rpc.easy2stake.com/",
+    "website": "https://easy2stake.com/",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://rpc.cosmos.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "Silk Nodes",
+    "url": "https://cosmos.rpc.silknodes.io",
+    "website": "https://silknodes.io",
+    "weight": 1
+  },
+  {
+    "name": "Allnodes ⚡️ Nodes & Staking",
+    "url": "https://cosmos-rpc.publicnode.com:443",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "kjnodes",
+    "url": "https://cosmoshub.rpc.kjnodes.com",
+    "website": "https://kjnodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Golden Ratio Staking",
+    "url": "https://rpc-cosmoshub.goldenratiostaking.net",
+    "website": "https://goldenratiostaking.net",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-cosmos-hub-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://cosmos-rpc.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "name": "MMS",
+    "url": "https://rpc-cosmoshub.mms.team",
+    "website": "https://mms.team",
+    "weight": 1
+  },
+  {
+    "name": "TienThuatToan",
+    "url": "https://cosmos-rpc.tienthuattoan.ventures",
+    "website": "https://tienthuattoan.ventures",
+    "weight": 1
+  },
+  {
+    "name": "PRO Delegators",
+    "url": "https://community.nuxian-node.ch:6797/gaia/trpc",
+    "website": "https://nuxian-node.ch:6797/gaia/trpc",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://cosmos-rpc.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
+  },
+  {
+    "name": "cosmosrescue",
+    "url": "https://cosmoshub-rpc.cosmosrescue.dev",
+    "website": "https://cosmosrescue.dev",
+    "weight": 1
+  },
+  {
+    "name": "Interstellar Lounge 🍸",
+    "url": "https://cosmos.interstellar-lounge.org",
+    "website": "https://interstellar-lounge.org",
+    "weight": 1
+  },
+  {
+    "name": "Stakewolle",
+    "url": "https://public.stakewolle.com/cosmos/cosmoshub/rpc",
+    "website": "https://stakewolle.com/cosmos/cosmoshub/rpc",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rpc-cosmos.kewrnode.com",
+    "website": "https://kewrnode.com",
+    "weight": 1
   }
 ]

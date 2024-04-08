@@ -9,7 +9,7 @@
   {
     "name": "Osmosis Foundation",
     "website": "https://osmosis.zone",
-    "url": "https://rpc.osmosis.zone",
+    "url": "https://rpc.osmosis.zone/",
     "weight": 1
   },
   {
@@ -29,7 +29,7 @@
   {
     "name": "Quickapi",
     "website": "https://quickapi.com",
-    "url": "https://osmosis-rpc.quickapi.com",
+    "url": "https://osmosis-rpc.quickapi.com:443",
     "weight": 1
   },
   {
@@ -57,6 +57,138 @@
     "website": "https://www.silknodes.io",
     "url": "https://rpc.osmosis.silknodes.io",
     "keybase": "1326A75B9148A214",
+    "weight": 1
+  },
+  {
+    "name": "Oni Validator ⛩️",
+    "url": "https://osmosis-rpc.onivalidator.com",
+    "website": "https://onivalidator.com",
+    "weight": 1
+  },
+  {
+    "name": "WhisperNode 🤐",
+    "url": "https://rpc-osmosis.whispernode.com:443",
+    "website": "https://whispernode.com",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://osmosis-rpc.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "Cosmos Spaces",
+    "url": "https://rpc-osmosis.cosmos-spaces.cloud",
+    "website": "https://cosmos-spaces.cloud",
+    "weight": 1
+  },
+  {
+    "name": "Stakin",
+    "url": "https://osmosis.rpc.stakin-nodes.com",
+    "website": "https://stakin-nodes.com",
+    "weight": 1
+  },
+  {
+    "name": "AutoStake 🛡️ Slash Protected",
+    "url": "https://osmosis-mainnet-rpc.autostake.com:443",
+    "website": "https://autostake.com",
+    "weight": 1
+  },
+  {
+    "name": "OnFinality",
+    "url": "https://osmosis.api.onfinality.io/public",
+    "website": "https://onfinality.io/public",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-osmosis-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://osmosis-rpc.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "name": "Allnodes ⚡️ Nodes & Staking",
+    "url": "https://osmosis-rpc.publicnode.com:443",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "PRO Delegators",
+    "url": "https://community.nuxian-node.ch:6797/osmosis/trpc",
+    "website": "https://nuxian-node.ch:6797/osmosis/trpc",
+    "weight": 1
+  },
+  {
+    "name": "FreshSTAKING",
+    "url": "http://rpc-osmosis.freshstaking.com:31657",
+    "website": "https://freshstaking.com",
+    "weight": 1
+  },
+  {
+    "name": "StakeTown",
+    "url": "https://osmosis-rpc.stake-town.com",
+    "website": "https://stake-town.com",
+    "weight": 1
+  },
+  {
+    "name": "L0vd.com ❤️",
+    "url": "https://osmosis-mainnet.rpc.l0vd.com:443",
+    "website": "https://l0vd.com",
+    "weight": 1
+  },
+  {
+    "name": "Reecepbcups",
+    "url": "https://osmosis-rpc.reece.sh",
+    "website": "https://reece.sh",
+    "weight": 1
+  },
+  {
+    "name": "Validatus",
+    "url": "https://rpc.osmosis.validatus.com",
+    "website": "https://validatus.com",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.osmosis.bronbro.io:443",
+    "website": "https://bronbro.io",
+    "weight": 1
+  },
+  {
+    "name": "Interstellar Lounge 🍸",
+    "url": "https://osmosis.interstellar-lounge.org",
+    "website": "https://interstellar-lounge.org",
+    "weight": 1
+  },
+  {
+    "name": "Stakewolle",
+    "url": "https://public.stakewolle.com/cosmos/osmosis/rpc",
+    "website": "https://stakewolle.com/cosmos/osmosis/rpc",
+    "weight": 1
+  },
+  {
+    "name": "Crosnest",
+    "url": "https://rpc.cros-nest.com/osmosis",
+    "website": "https://cros-nest.com/osmosis",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rpc-osmo.kewrnode.com",
+    "website": "https://kewrnode.com",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://osmosis-rpc.noders.services",
+    "website": "https://noders.services",
     "weight": 1
   }
 ]

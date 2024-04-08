@@ -2,7 +2,7 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
-    "url": "https://quasar-rpc.lavenderfive.com",
+    "url": "https://quasar-rpc.lavenderfive.com:443",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
@@ -30,8 +30,56 @@
   {
     "name": "Whispernode",
     "website": "https://www.whispernode.com",
-    "url": "https://rpc-quasar.whispernode.com",
+    "url": "https://rpc-quasar.whispernode.com:443",
     "keybase": "C99B3A6836BF0CB8",
+    "weight": 1
+  },
+  {
+    "name": "Cosmos Spaces",
+    "url": "https://rpc-quasar.cosmos-spaces.cloud",
+    "website": "https://cosmos-spaces.cloud",
+    "weight": 1
+  },
+  {
+    "name": "AutoStake 🛡️ Slash Protected",
+    "url": "https://quasar-mainnet-rpc.autostake.com:443",
+    "website": "https://autostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Validavia",
+    "url": "https://rpc-quasar.validavia.me",
+    "website": "https://validavia.me",
+    "weight": 1
+  },
+  {
+    "name": "Allnodes ⚡️ Nodes & Staking",
+    "url": "https://quasar-rpc.publicnode.com:443",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "StakeTown",
+    "url": "https://quasar-rpc.stake-town.com",
+    "website": "https://stake-town.com",
+    "weight": 1
+  },
+  {
+    "name": "Inter Blockchain Services",
+    "url": "https://quasar-rpc.ibs.team",
+    "website": "https://ibs.team",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://quasar-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "name": "genznodes",
+    "url": "https://quasar-rpc.genznodes.dev",
+    "website": "https://genznodes.dev",
     "weight": 1
   }
 ]

@@ -100,5 +100,11 @@
     "url": "https://lcd.agoric.bronbro.io:443",
     "website": "https://bronbro.io",
     "weight": 1
+  },
+  {
+    "name": "🔥STAVR🔥",
+    "url": "https://agoric.api.m.stavr.tech",
+    "website": "https://stavr.tech",
+    "weight": 1
   }
 ]

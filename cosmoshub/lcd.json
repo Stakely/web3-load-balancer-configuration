@@ -80,5 +80,143 @@
     "url": "https://rest-cosmoshub.architectnodes.com",
     "keybase": "AB730C3A241BB718",
     "weight": 1
+  },
+  {
+    "name": "Chainlayer",
+    "url": "https://cosmos-lcd.quickapi.com:443",
+    "website": "https://quickapi.com",
+    "weight": 1
+  },
+  {
+    "name": "Golden Ratio Staking",
+    "url": "https://rest-cosmoshub.goldenratiostaking.net",
+    "website": "https://goldenratiostaking.net",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://cosmoshub-api.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "Cosmos Spaces",
+    "url": "https://api-cosmoshub.cosmos-spaces.cloud",
+    "website": "https://cosmos-spaces.cloud",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "url": "https://api-cosmoshub-ia.cosmosia.notional.ventures/",
+    "website": "https://notional.ventures/",
+    "weight": 1
+  },
+  {
+    "name": "Staketab",
+    "url": "https://cosmos-rest.staketab.org",
+    "website": "https://staketab.org",
+    "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rest-cosmoshub.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "WhisperNode 🤐",
+    "url": "https://lcd-cosmoshub.whispernode.com:443",
+    "website": "https://whispernode.com",
+    "weight": 1
+  },
+  {
+    "name": "Easy 2 Stake",
+    "url": "https://cosmos-lcd.easy2stake.com",
+    "website": "https://easy2stake.com",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://api.cosmos.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "Silk Nodes",
+    "url": "https://cosmos.api.silknodes.io",
+    "website": "https://silknodes.io",
+    "weight": 1
+  },
+  {
+    "name": "Allnodes ⚡️ Nodes & Staking",
+    "url": "https://cosmos-rest.publicnode.com",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "kjnodes",
+    "url": "https://cosmoshub.api.kjnodes.com",
+    "website": "https://kjnodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://api-cosmos-hub-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://cosmos-api.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "name": "MMS",
+    "url": "https://api-cosmoshub.mms.team",
+    "website": "https://mms.team",
+    "weight": 1
+  },
+  {
+    "name": "TienThuatToan",
+    "url": "https://cosmos-api.tienthuattoan.ventures",
+    "website": "https://tienthuattoan.ventures",
+    "weight": 1
+  },
+  {
+    "name": "PRO Delegators",
+    "url": "https://community.nuxian-node.ch:6797/gaia/crpc",
+    "website": "https://nuxian-node.ch:6797/gaia/crpc",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://cosmos-api.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
+  },
+  {
+    "name": "cosmosrescue",
+    "url": "https://cosmoshub-api.cosmosrescue.dev",
+    "website": "https://cosmosrescue.dev",
+    "weight": 1
+  },
+  {
+    "name": "Interstellar Lounge 🍸",
+    "url": "https://cosmos-rest.interstellar-lounge.org",
+    "website": "https://interstellar-lounge.org",
+    "weight": 1
+  },
+  {
+    "name": "Stakewolle",
+    "url": "https://public.stakewolle.com/cosmos/cosmoshub/rest",
+    "website": "https://stakewolle.com/cosmos/cosmoshub/rest",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rest-cosmos.kewrnode.com",
+    "website": "https://kewrnode.com",
+    "weight": 1
   }
 ]

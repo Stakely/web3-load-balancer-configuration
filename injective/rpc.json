@@ -1,71 +1,101 @@
 [
-    {
-      "name": "Stakely",
-      "website": "https://stakely.io",
-      "url": "https://injective-rpc-server-01.stakely.io/",
-      "keybase": "55A5F88B4ED52D3E",
-      "weight": 1.1
-    },
-    {
-      "name": "Polkachu",
-      "website": "https://polkachu.com",
-      "url": "https://injective-rpc.polkachu.com",
-      "keybase": "0A6AF02D1557E5B4",
-      "weight": 1
-    },
-    {
-      "name": "Publicnode",
-      "website": "https://publicnode.com",
-      "url": "https://injective-rpc.publicnode.com",
-      "weight": 1
-    },
-    {
-      "name": "Lavender.Five Nodes 🐝",
-      "website": "https://www.lavenderfive.com",
-      "url": "https://injective-rpc.lavenderfive.com/",
-      "keybase": "F87ADDB700C0CC94",
-      "weight": 1
-    },
-    {
-      "name": "High Stakes Switzerland",
-      "website": "https://highstakes.ch/",
-      "url": "https://injective-rpc.highstakes.ch/",
-      "keybase": "2CB281A714F6133B",
-      "weight": 1
-    },
-    {
-      "name": "Autostake",
-      "website": "https://autostake.com/",
-      "url": "https://injective-mainnet-rpc.autostake.com/",
-      "keybase": "4D3303E20A4D2C32",
-      "weight": 1
-    },
-    {
-      "name": "Whispernode",
-      "website": "https://www.whispernode.com",
-      "url": "https://rpc-injective.whispernode.com",
-      "keybase": "C99B3A6836BF0CB8",
-      "weight": 1
-    },
-    {
-      "name": "Golden Ratio Staking",
-      "website": "https://www.goldenstaking.com/",
-      "url": "https://rpc-injective.goldenratiostaking.net/",
-      "keybase": "1C32EF4035953E8B",
-      "weight": 1
-    },
-    {
-      "name": "Stake Wolle",
-      "website": "https://stakewolle.com/",
-      "url": "https://public.stakewolle.com/cosmos/injective/rpc/",
-      "keybase": "6386E8C1B6217AC2",
-      "weight": 1
-    },
-    {
-      "name": "Injective",
-      "website": "https://injective.com/",
-      "url": "https://tm.injective.network/",
-      "keybase": "54EEBB62B7D58830",
-      "weight": 1
-    }
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://injective-rpc-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://injective-rpc.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://injective-rpc.publicnode.com:443",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "url": "https://injective-rpc.lavenderfive.com:443",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes Switzerland",
+    "website": "https://highstakes.ch/",
+    "url": "https://injective-rpc.highstakes.ch",
+    "keybase": "2CB281A714F6133B",
+    "weight": 1
+  },
+  {
+    "name": "Autostake",
+    "website": "https://autostake.com/",
+    "url": "https://injective-mainnet-rpc.autostake.com:443",
+    "keybase": "4D3303E20A4D2C32",
+    "weight": 1
+  },
+  {
+    "name": "Whispernode",
+    "website": "https://www.whispernode.com",
+    "url": "https://rpc-injective.whispernode.com:443",
+    "keybase": "C99B3A6836BF0CB8",
+    "weight": 1
+  },
+  {
+    "name": "Golden Ratio Staking",
+    "website": "https://www.goldenstaking.com/",
+    "url": "https://rpc-injective.goldenratiostaking.net",
+    "keybase": "1C32EF4035953E8B",
+    "weight": 1
+  },
+  {
+    "name": "Stake Wolle",
+    "website": "https://stakewolle.com/",
+    "url": "https://public.stakewolle.com/cosmos/injective/rpc",
+    "keybase": "6386E8C1B6217AC2",
+    "weight": 1
+  },
+  {
+    "name": "Injective",
+    "website": "https://injective.com/",
+    "url": "https://tm.injective.network/",
+    "keybase": "54EEBB62B7D58830",
+    "weight": 1
+  },
+  {
+    "name": "NewMetric",
+    "url": "https://injective-1-public-rpc.mesa.ec1-prod.newmetric.xyz",
+    "website": "https://newmetric.xyz",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "url": "https://rpc-injective-ia.cosmosia.notional.ventures/",
+    "website": "https://notional.ventures/",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-injective-01.stakeflow.io",
+    "website": "https://stakeflow.io",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.injective.bronbro.io/",
+    "website": "https://bronbro.io/",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://injective-rpc.noders.services",
+    "website": "https://noders.services",
+    "weight": 1
+  }
 ]

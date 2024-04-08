@@ -2,7 +2,7 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "url": "https://terraclassic-rpc-server-01.stakely.io",
+    "url": "https://terra-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
@@ -37,26 +37,56 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://lavenderfive.com",
-    "url": "https://terra-rpc.lavenderfive.com",
+    "url": "https://terra2-rpc.lavenderfive.com:443",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
   {
+    "name": "stakely",
+    "url": "https://terra-rpc.stakely.io:443/",
+    "website": "https://stakely.io:443/",
+    "weight": 1
+  },
+  {
+    "name": "Terraform Labs",
+    "url": "https://phoenix-rpc.terra.dev:443",
+    "website": "https://terra.dev",
+    "weight": 1
+  },
+  {
     "name": "Allnodes ⚡️ Nodes & Staking",
-    "url": "https://terra-classic-rpc.publicnode.com:443",
+    "url": "https://terra-rpc.publicnode.com:443",
     "website": "https://publicnode.com",
     "weight": 1
   },
   {
-    "name": "Notional",
-    "url": "https://rpc-terra-ia.cosmosia.notional.ventures/",
-    "website": "https://notional.ventures/",
+    "name": "Stakeflow",
+    "url": "https://rpc-terra-01.stakeflow.io",
+    "website": "https://stakeflow.io",
     "weight": 1
   },
   {
-    "name": "AutoStake 🛡️ Slash Protected",
-    "url": "https://terraclassic-mainnet-rpc.autostake.com:443",
-    "website": "https://autostake.com",
+    "name": "Cosmos Spaces",
+    "url": "https://rpc-terra.cosmos-spaces.cloud",
+    "website": "https://cosmos-spaces.cloud",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://terra-phoenix-rpc.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
+  },
+  {
+    "name": "Interstellar Lounge 🍸",
+    "url": "https://terra.interstellar-lounge.org",
+    "website": "https://interstellar-lounge.org",
+    "weight": 1
+  },
+  {
+    "name": "cosmosrescue",
+    "url": "https://terra-rpc.cosmosrescue.dev:8443",
+    "website": "https://cosmosrescue.dev",
     "weight": 1
   }
 ]

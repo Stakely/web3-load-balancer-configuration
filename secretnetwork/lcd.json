@@ -67,7 +67,7 @@
   {
     "name": "High Stakes Switzerland",
     "website": "https://highstakes.ch/",
-    "url": "https://secretnetwork-api.highstakes.ch/",
+    "url": "https://secretnetwork-api.highstakes.ch",
     "keybase": "2CB281A714F6133B",
     "weight": 1
   },
@@ -83,6 +83,30 @@
     "website": "https://01node.com/",
     "url": "https://rest-secret.01node.com",
     "keybase": "7BDD4C2E94392626",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://secretnetwork-api.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "AutoStake 🛡️ Slash Protected",
+    "url": "http://secretnetwork-mainnet-lcd.autostake.com:1317",
+    "website": "https://autostake.com",
+    "weight": 1
+  },
+  {
+    "name": "1RPC - Automata Network",
+    "url": "https://1rpc.io/scrt-lcd",
+    "website": "https://https://1rpc.io/scrt-lcd",
+    "weight": 1
+  },
+  {
+    "name": "Stakewolle",
+    "url": "https://public.stakewolle.com/cosmos/secretnetwork/rest",
+    "website": "https://stakewolle.com/cosmos/secretnetwork/rest",
     "weight": 1
   }
 ]

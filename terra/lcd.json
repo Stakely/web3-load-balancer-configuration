@@ -2,7 +2,7 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "url": "https://terra-lcd-server-01.stakely.io",
+    "url": "https://terraclassic-lcd-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
@@ -45,6 +45,24 @@
     "website": "https://lavenderfive.com",
     "url": "https://terra-api.lavenderfive.com",
     "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "name": "Allnodes ⚡️ Nodes & Staking",
+    "url": "https://terra-classic-lcd.publicnode.com",
+    "website": "https://publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "Notional",
+    "url": "https://api-terra-ia.cosmosia.notional.ventures/",
+    "website": "https://notional.ventures/",
+    "weight": 1
+  },
+  {
+    "name": "AutoStake 🛡️ Slash Protected",
+    "url": "https://terraclassic-mainnet-lcd.autostake.com:443",
+    "website": "https://autostake.com",
     "weight": 1
   }
 ]

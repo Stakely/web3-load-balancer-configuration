@@ -48,7 +48,7 @@
     "weight": 1
   },
   {
-    "name": "🔥STAVR🔥",
+    "name": "STAVR",
     "url": "http://juno.rpc.m.stavr.tech:1067",
     "website": "https://stavr.tech",
     "weight": 1
@@ -189,6 +189,12 @@
     "name": "Decloud Nodes Lab",
     "url": "https://juno.declab.pro:26610",
     "website": "https://declab.pro",
+    "weight": 1
+  },
+  {
+    "name": "Nodes Hub 🛡️ 100% Slash Protected 🛡️ | Restake ✅",
+    "url": "https://juno.rpc.nodeshub.online:443",
+    "website": "https://nodeshub.online",
     "weight": 1
   }
 ]

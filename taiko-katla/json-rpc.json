@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Taiko",
+    "website": "https://taiko.xyz/",
+    "url": "https://rpc.katla.taiko.xyz",
+    "keybase": "E3D9F8FE982037C8",
+    "weight": 1
+  },
+  {
+    "name": "DRPC",
+    "website": "https://drpc.org/",
+    "url": "https://taiko-katla.drpc.org",
+    "weight": 1
+  },
+  {
+    "name": "BlockPI",
+    "website": "https://blockpi.io/",
+    "url": "https://taiko-katla.blockpi.network/v1/rpc/public",
+    "keybase": "DE72F17D1D7586D1",
+    "weight": 1
+  }
+]

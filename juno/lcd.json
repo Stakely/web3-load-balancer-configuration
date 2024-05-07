@@ -178,5 +178,11 @@
     "url": "http://juno.api.staking-explorer.com",
     "website": "https://staking-explorer.com",
     "weight": 1
+  },
+  {
+    "name": "Nodes Hub 🛡️ 100% Slash Protected 🛡️ | Restake ✅",
+    "url": "https://juno.api.nodeshub.online:443",
+    "website": "https://nodeshub.online",
+    "weight": 1
   }
 ]

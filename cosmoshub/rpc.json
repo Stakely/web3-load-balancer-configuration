@@ -177,7 +177,7 @@
   },
   {
     "name": "Golden Ratio Staking",
-    "url": "https://rpc-cosmoshub.goldenratiostaking.net",
+    "url": "https://rpc.cosmoshub.goldenratiostaking.net",
     "website": "https://goldenratiostaking.net",
     "weight": 1
   },
@@ -240,5 +240,11 @@
     "url": "https://rpc-cosmos.kewrnode.com",
     "website": "https://kewrnode.com",
     "weight": 0
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://rpc.cosmoshub-4.citizenweb3.com",
+    "website": "https://citizenweb3.com",
+    "weight": 1
   }
 ]

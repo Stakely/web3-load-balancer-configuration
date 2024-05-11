@@ -168,5 +168,11 @@
     "url": "https://celestia-rpc.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://rpc.celestia.citizenweb3.com",
+    "website": "https://citizenweb3.com",
+    "weight": 1
   }
 ]

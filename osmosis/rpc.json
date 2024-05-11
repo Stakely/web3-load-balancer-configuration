@@ -190,5 +190,11 @@
     "url": "https://osmosis-rpc.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "Golden Ratio Staking",
+    "url": "https://rpc.osmosis.goldenratiostaking.net",
+    "website": "https://goldenratiostaking.net",
+    "weight": 1
   }
 ]

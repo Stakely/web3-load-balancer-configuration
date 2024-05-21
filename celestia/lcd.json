@@ -155,5 +155,11 @@
     "url": "https://celestia-api.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "🚀 itrocket 🚀",
+    "url": "https://celestia-mainnet-api.itrocket.net",
+    "website": "https://itrocket.net",
+    "weight": 1
   }
 ]

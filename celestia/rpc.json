@@ -174,5 +174,11 @@
     "url": "https://rpc.celestia.citizenweb3.com",
     "website": "https://citizenweb3.com",
     "weight": 1
+  },
+  {
+    "name": "🚀 itrocket 🚀",
+    "url": "https://celestia-mainnet-rpc.itrocket.net",
+    "website": "https://itrocket.net",
+    "weight": 1
   }
 ]

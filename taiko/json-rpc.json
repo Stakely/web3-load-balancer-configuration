@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://taiko-json-rpc-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Taiko",
+    "website": "https://taiko.xyz/",
+    "url": "https://rpc.mainnet.taiko.xyz",
+    "keybase": "E3D9F8FE982037C8",
+    "weight": 1
+  }
+]

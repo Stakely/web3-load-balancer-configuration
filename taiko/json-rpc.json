@@ -21,8 +21,8 @@
   },
   {
     "name": "Taiko Tools",
-    "website": "https://taiko.blockpi.network/v1/rpc/public",
-    "url": "https://rpc.taiko.tools",
+    "website": "https://blockpi.network",
+    "url": "https://taiko.blockpi.network/v1/rpc/public",
     "keybase": "DE72F17D1D7586D1",
     "weight": 1
   }

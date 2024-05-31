@@ -97,5 +97,11 @@
     "url": "https://injective-rpc.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rpc-injective.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
   }
 ]

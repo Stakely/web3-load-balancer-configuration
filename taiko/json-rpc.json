@@ -25,5 +25,11 @@
     "url": "https://taiko.blockpi.network/v1/rpc/public",
     "keybase": "DE72F17D1D7586D1",
     "weight": 1
+  },
+  {
+    "name": "Ankr",
+    "website": "https://www.ankr.com/",
+    "url": "https://rpc.ankr.com/taiko",
+    "weight": 1
   }
 ]

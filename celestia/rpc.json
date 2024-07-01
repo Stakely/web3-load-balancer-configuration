@@ -180,5 +180,11 @@
     "url": "https://celestia-mainnet-rpc.itrocket.net",
     "website": "https://itrocket.net",
     "weight": 1
+  },
+  {
+    "name": "DTEAM",
+    "url": "https://rpc.celestia.mainnet.dteam.tech:443",
+    "website": "https://dteam.tech",
+    "weight": 1
   }
 ]

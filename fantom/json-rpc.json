@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Stakely 1",
+    "website": "https://stakely.io",
+    "url": "https://fantom-rpc-server-01.stakely.io:443",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Stakely 2",
+    "website": "https://stakely.io",
+    "url": "https://fantom-rpc-server-02.stakely.io:443",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Stakely 3",
+    "website": "https://stakely.io",
+    "url": "https://fantom-rpc-server-03.stakely.io:443",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://fantom-rpc.publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "Fantom network api",
+    "website": "https://fantom.foundation/",
+    "url": "https://rpcapi.fantom.network",
+    "weight": 1
+  },
+  {
+    "name": "Fantom network",
+    "website": "https://fantom.foundation/",
+    "url": "https://rpc.fantom.network",
+    "weight": 1
+  },
+  {
+    "name": "Nodies app",
+    "website": "https://nodies.app",
+    "url": "https://fantom-pokt.nodies.app",
+    "weight": 1
+  },
+  {
+    "name": "Ftm tools",
+    "website": "https://rpc.ftm.tools",
+    "url": "https://rpc.ftm.tools",
+    "weight": 1
+  },
+  {
+    "name": "Blastapi",
+    "website": "https://blastapi.io/",
+    "url": "  https://fantom-mainnet.public.blastapi.io",
+    "weight": 1
+  },
+  {
+    "name": "Blockpi",
+    "website": "https://blockpi.io/",
+    "url": "https://fantom.blockpi.network/v1/rpc/public",
+    "keybase": "DE72F17D1D7586D1",
+    "weight": 1
+  },
+  {
+    "name": "1RPC",
+    "url": "https://1rpc.io/",
+    "website": "https://1rpc.io/ftm",
+    "weight": 1
+  },
+  {
+    "name": "DRPC",
+    "url": "https://drpc.org/",
+    "website": "https://fantom.drpc.org",
+    "weight": 1
+  }
+]
+

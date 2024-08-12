@@ -96,7 +96,7 @@
   },
   {
     "name": "Publicnode",
-    "url": "  https://evmos-evm-rpc.publicnode.com",
+    "url": "https://evmos-evm-rpc.publicnode.com",
     "website": "https://publicnode.com",
     "weight": 1
   }

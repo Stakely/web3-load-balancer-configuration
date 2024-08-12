@@ -65,14 +65,14 @@
   },
   {
     "name": "1RPC",
-    "url": "https://1rpc.io/",
-    "website": "https://1rpc.io/ftm",
+    "website": "https://1rpc.io/",
+    "url": "https://1rpc.io/ftm",
     "weight": 1
   },
   {
     "name": "DRPC",
-    "url": "https://drpc.org/",
-    "website": "https://fantom.drpc.org",
+    "website": "https://drpc.org/",
+    "url": "https://fantom.drpc.org",
     "weight": 1
   }
 ]

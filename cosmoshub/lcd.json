@@ -218,5 +218,11 @@
     "url": "https://rest-cosmos.kewrnode.com",
     "website": "https://kewrnode.com",
     "weight": 0
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://cosmos-api.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
   }
 ]

@@ -258,5 +258,11 @@
     "url": "https://rpc.cosmoshub-4.citizenweb3.com",
     "website": "https://citizenweb3.com",
     "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://cosmos-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
   }
 ]

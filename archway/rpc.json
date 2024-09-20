@@ -4,7 +4,7 @@
     "website": "https://stakely.io",
     "url": "https://archway-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
-    "weight": 1
+    "weight": 1.1
   },
   {
     "url": "https://rpc.mainnet.archway.io",
@@ -121,7 +121,6 @@
     "name": "L0vd.com",
     "website": "https://l0vd.com",
     "url": "https://archway-mainnet.rpc.l0vd.com",
-    "keybase": "0C293487659F3386",
     "weight": 1
   },
   {

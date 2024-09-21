@@ -87,7 +87,7 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://cosmoshub-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/cosmoshub",
     "website": "https://lavenderfive.com",
     "weight": 1
   },
@@ -263,6 +263,12 @@
     "name": "Stake&Relax 🦥",
     "url": "https://cosmos-rpc.stakeandrelax.net",
     "website": "https://stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "url": "https://cosmos-hub.drpc.org",
+    "website": "https://drpc.org",
     "weight": 1
   }
 ]

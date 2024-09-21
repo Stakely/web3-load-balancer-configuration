@@ -157,6 +157,12 @@
     "weight": 1
   },
   {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/celestia",
+    "website": "https://lavenderfive.com:443/celestia",
+    "weight": 1
+  },
+  {
     "name": "🚀 itrocket 🚀",
     "url": "https://celestia-mainnet-api.itrocket.net",
     "website": "https://itrocket.net",

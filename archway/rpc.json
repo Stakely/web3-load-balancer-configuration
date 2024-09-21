@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://archway-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "url": "https://rpc.mainnet.archway.io",
+    "name": "Archway Foundation",
+    "website": "https://archway.io",
+    "weight": 1
+  },
+  {
+    "url": "https://archway.api.trivium.network:26657",
+    "name": "Trivium",
+    "website": "https://trivium.network",
+    "keybase": "1DAC06C56C7B2AC9",
+    "weight": 1
+  },
+  {
+    "name": "Silk Nodes",
+    "url": "https://archway.rpc.silknodes.io/",
+    "website": "https://silknodes.io",
+    "keybase": "1326A75B9148A214",
+    "weight": 1
+  },
+  {
+    "name": "Cryptech",
+    "url": "https://rpc-archway.cryptech.com.ua",
+    "website": "https://cryptech.com.ua",
+    "weight": 1
+  },
+  {
+    "name": "kjnodes",
+    "website": "https://kjnodes.com",
+    "url": "https://archway.rpc.kjnodes.com",
+    "keybase": "1C5ACD2EEF363C3A",
+    "weight": 1
+  },
+  {
+    "name": "0base.vc",
+    "website": "https://0base.dev/",
+    "url": "https://archway-rpc.0base.dev",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc.lavenderfive.com:443/archway",
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "name": "AM Solutions",
+    "website": "https://theamsolutions.info",
+    "url": "https://rpc-archway.theamsolutions.info",
+    "weight": 1
+  },
+  {
+    "name": "WhisperNode 🤐",
+    "url": "https://rpc-archway.whispernode.com:443",
+    "website": "https://whispernode.com",
+    "weight": 1
+  },
+  {
+    "name": "StakeUp",
+    "url": "https://rpc.archway.stakeup.tech",
+    "website": "https://stakeup.tech",
+    "weight": 1
+  },
+  {
+    "name": "Luganodes",
+    "url": "https://rpc.archway.lgns.net",
+    "website": "https://www.luganodes.com/",
+    "keybase": "3CE24C948DE662E6",
+    "weight": 1
+  },
+  {
+    "url": "http://archway.rpc.nodersteam.com:29657",
+    "name": "[NODERS]TEAM",
+    "website": "https://nodersteam.com",
+    "keybase": "220491ADDD660741",
+    "weight": 1
+  },
+  {
+    "name": "Validatrium",
+    "url": "https://rpc-archway.mainnet.validatrium.club",
+    "website": "https://validatrium.club",
+    "weight": 1
+  },
+  {
+    "name": "w3coins",
+    "url": "https://archway-rpc.w3coins.io",
+    "website": "https://w3coins.io",
+    "weight": 1
+  },
+  {
+    "url": "https://archway-rpc.stake-town.com",
+    "name": "StakeTown",
+    "website": "https://stake-town.com",
+    "keybase": "FE38D8D1E0E5011F",
+    "weight": 1
+  },
+  {
+    "name": "Nodes Guru",
+    "website": "https://nodes.guru",
+    "url": "https://rpc-1.archway.nodes.guru",
+    "keybase": "28B672FCE6BBD562",
+    "weight": 1
+  },
+  {
+    "name": "Openbitlab",
+    "website": "https://openbitlab.com",
+    "url": "https://archway-rpc.openbitlab.com",
+    "keybase": "0C293487659F3386",
+    "weight": 1
+  },
+  {
+    "name": "L0vd.com",
+    "website": "https://l0vd.com",
+    "url": "https://archway-mainnet.rpc.l0vd.com",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "website": "https://stakeandrelax.net",
+    "url": "https://archway-rpc.stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "url": "https://rpc-archway.mzonder.com",
+    "name": "MZONDER",
+    "website": "https://mzonder.com",
+    "weight": 1
+  },
+  {
+    "url": "https://m-archway.rpc.utsa.tech",
+    "name": "lesnik | UTSA",
+    "website": "https://utsa.tech",
+    "weight": 1
+  },
+  {
+    "name": "All That Node",
+    "url": "https://archway-mainnet-archive.allthatnode.com:26657",
+    "website": "https://allthatnode.com",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://rpc.archway.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "MMS",
+    "url": "https://rpc-archway.mms.team",
+    "website": "https://mms.team",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.archway.bronbro.io:443",
+    "website": "https://bronbro.io",
+    "weight": 1
+  },
+  {
+    "name": "GlobalStake",
+    "url": "https://rpc-archway.luckyfriday.io/",
+    "website": "https://luckyfriday.io/",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://archway-rpc.noders.services",
+    "website": "https://noders.services",
+    "weight": 1
+  }
+]

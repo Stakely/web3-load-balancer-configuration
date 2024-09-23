@@ -81,5 +81,11 @@
     "url": "https://quasar-api.genznodes.dev",
     "website": "https://genznodes.dev",
     "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/quasar",
+    "website": "https://lavenderfive.com:443/quasar",
+    "weight": 1
   }
 ]

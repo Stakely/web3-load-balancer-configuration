@@ -17,7 +17,6 @@
     "name": "Forbole",
     "website": "https://forbole.com",
     "url": "https://rpc.secret.forbole.com",
-    "keybase": "2861F5EE06627224",
     "weight": 1
   },
   {
@@ -70,7 +69,7 @@
   {
     "name": "Lavender.Five",
     "website": "https://www.lavenderfive.com",
-    "url": "https://secretnetwork-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/secretnetwork",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },

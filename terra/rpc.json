@@ -37,7 +37,7 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://lavenderfive.com",
-    "url": "https://terra2-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/terra2",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },

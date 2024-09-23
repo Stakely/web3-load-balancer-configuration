@@ -22,7 +22,7 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
-    "url": "https://injective-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/injective",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
@@ -102,6 +102,12 @@
     "name": "ecostake",
     "url": "https://rpc-injective.ecostake.com",
     "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rpc-injective.kewrnode.com",
+    "website": "https://kewrnode.com",
     "weight": 1
   }
 ]

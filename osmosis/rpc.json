@@ -73,7 +73,7 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://osmosis-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/osmosis",
     "website": "https://lavenderfive.com",
     "weight": 1
   },
@@ -195,6 +195,12 @@
     "name": "Golden Ratio Staking",
     "url": "https://rpc.osmosis.goldenratiostaking.net",
     "website": "https://goldenratiostaking.net",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "url": "https://osmosis.drpc.org",
+    "website": "https://drpc.org",
     "weight": 1
   }
 ]

@@ -17,7 +17,6 @@
     "name": "Forbole",
     "website": "https://forbole.com",
     "url": "https://api.secret.forbole.com",
-    "keybase": "2861F5EE06627224",
     "weight": 1
   },
   {
@@ -107,6 +106,12 @@
     "name": "Stakewolle",
     "url": "https://public.stakewolle.com/cosmos/secretnetwork/rest",
     "website": "https://stakewolle.com/cosmos/secretnetwork/rest",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/secretnetwork",
+    "website": "https://lavenderfive.com:443/secretnetwork",
     "weight": 1
   }
 ]

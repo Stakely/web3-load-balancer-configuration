@@ -172,5 +172,11 @@
     "url": "https://rest.osmosis.goldenratiostaking.net",
     "website": "https://goldenratiostaking.net",
     "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/osmosis",
+    "website": "https://lavenderfive.com:443/osmosis",
+    "weight": 1
   }
 ]

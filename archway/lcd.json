@@ -92,7 +92,7 @@
   },
   {
     "name": "w3coins",
-    "url": "https://archway-apì.w3coins.io",
+    "url": "https://archway-api.w3coins.io",
     "website": "https://w3coins.io",
     "weight": 1
   },
@@ -129,9 +129,57 @@
   },
   {
     "name": "Silk Nodes",
-    "url": "https://archway.api.silknodes.io",
+    "url": "https://archway.api.silknodes.io/",
     "website": "https://silknodes.io",
     "keybase": "1326A75B9148A214",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://api.archway.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "AM Solutions",
+    "url": "https://rest-archway.theamsolutions.info",
+    "website": "https://theamsolutions.info",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/archway",
+    "website": "https://lavenderfive.com:443/archway",
+    "weight": 1
+  },
+  {
+    "name": "MMS",
+    "url": "https://api-archway.mms.team",
+    "website": "https://mms.team",
+    "weight": 1
+  },
+  {
+    "name": "All That Node",
+    "url": "https://archway-mainnet-archive.allthatnode.com:1317",
+    "website": "https://allthatnode.com",
+    "weight": 1
+  },
+  {
+    "name": "TienThuatToan",
+    "url": "https://archway-api.tienthuattoan.ventures",
+    "website": "https://tienthuattoan.ventures",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://lcd.archway.bronbro.io:443",
+    "website": "https://bronbro.io",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://archway-api.noders.services",
+    "website": "https://noders.services",
     "weight": 1
   }
 ]

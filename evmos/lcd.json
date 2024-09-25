@@ -153,5 +153,11 @@
     "url": "https://lcd.evmos.bronbro.io:443",
     "website": "https://bronbro.io",
     "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/evmos",
+    "website": "https://lavenderfive.com:443/evmos",
+    "weight": 1
   }
 ]

@@ -69,7 +69,7 @@
   {
     "name": "Lavender.Five",
     "website": "https://www.lavenderfive.com",
-    "url": "https://secretnetwork-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/secretnetwork",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },

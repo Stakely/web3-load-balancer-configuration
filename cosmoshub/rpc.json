@@ -87,7 +87,7 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://cosmoshub-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/cosmoshub",
     "website": "https://lavenderfive.com",
     "weight": 1
   },
@@ -177,7 +177,7 @@
   },
   {
     "name": "Golden Ratio Staking",
-    "url": "https://rpc-cosmoshub.goldenratiostaking.net",
+    "url": "https://rpc.cosmoshub.goldenratiostaking.net",
     "website": "https://goldenratiostaking.net",
     "weight": 1
   },
@@ -240,5 +240,35 @@
     "url": "https://rpc-cosmos.kewrnode.com",
     "website": "https://kewrnode.com",
     "weight": 0
+  },
+  {
+    "name": "GetBlock RPC Nodes",
+    "url": "https://go.getblock.io/17515cb3ec0e43b7817f182e5de6066a",
+    "website": "https://getblock.io/17515cb3ec0e43b7817f182e5de6066a",
+    "weight": 1
+  },
+  {
+    "name": "TTT 🇻🇳",
+    "url": "https://cosmos-rpc.tienthuattoan.com",
+    "website": "https://tienthuattoan.com",
+    "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://rpc.cosmoshub-4.citizenweb3.com",
+    "website": "https://citizenweb3.com",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://cosmos-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "url": "https://cosmos-hub.drpc.org",
+    "website": "https://drpc.org",
+    "weight": 1
   }
 ]

@@ -22,7 +22,7 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
-    "url": "https://injective-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/injective",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
@@ -50,7 +50,7 @@
   {
     "name": "Golden Ratio Staking",
     "website": "https://www.goldenstaking.com/",
-    "url": "https://rpc-injective.goldenratiostaking.net",
+    "url": "https://rpc.injective.goldenratiostaking.net",
     "keybase": "1C32EF4035953E8B",
     "weight": 1
   },
@@ -70,7 +70,7 @@
   },
   {
     "name": "NewMetric",
-    "url": "https://injective-1-public-rpc.mesa.ec1-prod.newmetric.xyz",
+    "url": "https://6d0ff611-9009-4bd1-a7a7-acec7c70d454.injective-1.mesa-rpc.newmetric.xyz",
     "website": "https://newmetric.xyz",
     "weight": 1
   },
@@ -96,6 +96,18 @@
     "name": "[NODERS]TEAM",
     "url": "https://injective-rpc.noders.services",
     "website": "https://noders.services",
+    "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rpc-injective.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rpc-injective.kewrnode.com",
+    "website": "https://kewrnode.com",
     "weight": 1
   }
 ]

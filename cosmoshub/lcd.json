@@ -89,7 +89,7 @@
   },
   {
     "name": "Golden Ratio Staking",
-    "url": "https://rest-cosmoshub.goldenratiostaking.net",
+    "url": "https://rest.cosmoshub.goldenratiostaking.net",
     "website": "https://goldenratiostaking.net",
     "weight": 1
   },
@@ -218,5 +218,17 @@
     "url": "https://rest-cosmos.kewrnode.com",
     "website": "https://kewrnode.com",
     "weight": 0
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/cosmoshub",
+    "website": "https://lavenderfive.com:443/cosmoshub",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax 🦥",
+    "url": "https://cosmos-api.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
   }
 ]

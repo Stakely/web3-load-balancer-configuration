@@ -21,7 +21,7 @@
   },
   {
     "name": "Silk Nodes",
-    "url": "https://archway.rpc.silknodes.io",
+    "url": "https://archway.rpc.silknodes.io/",
     "website": "https://silknodes.io",
     "keybase": "1326A75B9148A214",
     "weight": 1
@@ -46,7 +46,7 @@
     "weight": 1
   },
   {
-    "url": "https://archway-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/archway",
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
     "keybase": "F87ADDB700C0CC94",
@@ -139,6 +139,42 @@
     "url": "https://m-archway.rpc.utsa.tech",
     "name": "lesnik | UTSA",
     "website": "https://utsa.tech",
+    "weight": 1
+  },
+  {
+    "name": "All That Node",
+    "url": "https://archway-mainnet-archive.allthatnode.com:26657",
+    "website": "https://allthatnode.com",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://rpc.archway.nodestake.top",
+    "website": "https://nodestake.top",
+    "weight": 1
+  },
+  {
+    "name": "MMS",
+    "url": "https://rpc-archway.mms.team",
+    "website": "https://mms.team",
+    "weight": 1
+  },
+  {
+    "name": "Bro_n_Bro",
+    "url": "https://rpc.archway.bronbro.io:443",
+    "website": "https://bronbro.io",
+    "weight": 1
+  },
+  {
+    "name": "GlobalStake",
+    "url": "https://rpc-archway.luckyfriday.io/",
+    "website": "https://luckyfriday.io/",
+    "weight": 1
+  },
+  {
+    "name": "[NODERS]TEAM",
+    "url": "https://archway-rpc.noders.services",
+    "website": "https://noders.services",
     "weight": 1
   }
 ]

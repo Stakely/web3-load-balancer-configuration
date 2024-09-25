@@ -43,7 +43,7 @@
   {
     "name": "Golden Ratio Staking",
     "website": "https://www.goldenstaking.com/",
-    "url": "https://rest-injective.goldenratiostaking.net",
+    "url": "https://rest.injective.goldenratiostaking.net",
     "keybase": "1C32EF4035953E8B",
     "weight": 1
   },
@@ -63,7 +63,7 @@
   },
   {
     "name": "NewMetric",
-    "url": "https://injective-1-public-rest.mesa.ec1-prod.newmetric.xyz",
+    "url": "https://6d0ff611-9009-4bd1-a7a7-acec7c70d454.injective-1.mesa-rest.newmetric.xyz",
     "website": "https://newmetric.xyz",
     "weight": 1
   },
@@ -95,6 +95,24 @@
     "name": "[NODERS]TEAM",
     "url": "https://injective-api.noders.services",
     "website": "https://noders.services",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/injective",
+    "website": "https://lavenderfive.com:443/injective",
+    "weight": 1
+  },
+  {
+    "name": "ecostake",
+    "url": "https://rest-injective.ecostake.com",
+    "website": "https://ecostake.com",
+    "weight": 1
+  },
+  {
+    "name": "Kewr Node",
+    "url": "https://rest-injective.kewrnode.com",
+    "website": "https://kewrnode.com",
     "weight": 1
   }
 ]

@@ -61,7 +61,7 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://juno-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/juno",
     "website": "https://lavenderfive.com",
     "weight": 1
   },

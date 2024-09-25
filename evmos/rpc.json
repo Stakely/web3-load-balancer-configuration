@@ -54,7 +54,7 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://evmos-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/evmos",
     "website": "https://lavenderfive.com",
     "weight": 1
   },
@@ -158,6 +158,18 @@
     "name": "Bro_n_Bro",
     "url": "https://rpc.evmos.bronbro.io:443",
     "website": "https://bronbro.io",
+    "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://rpc.evmos.citizenweb3.com:443",
+    "website": "https://citizenweb3.com",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "url": "https://evmos.drpc.org",
+    "website": "https://drpc.org",
     "weight": 1
   }
 ]

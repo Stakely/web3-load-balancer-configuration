@@ -32,7 +32,7 @@
     "weight": 1
   },
   {
-    "url": "https://celestia-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/celestia",
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
     "keybase": "F87ADDB700C0CC94",
@@ -167,6 +167,24 @@
     "name": "[NODERS]TEAM",
     "url": "https://celestia-rpc.noders.services",
     "website": "https://noders.services",
+    "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://rpc.celestia.citizenweb3.com",
+    "website": "https://citizenweb3.com",
+    "weight": 1
+  },
+  {
+    "name": "🚀 itrocket 🚀",
+    "url": "https://celestia-mainnet-rpc.itrocket.net",
+    "website": "https://itrocket.net",
+    "weight": 1
+  },
+  {
+    "name": "DTEAM",
+    "url": "https://rpc.celestia.mainnet.dteam.tech:443",
+    "website": "https://dteam.tech",
     "weight": 1
   }
 ]

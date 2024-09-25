@@ -184,5 +184,11 @@
     "url": "https://juno.api.nodeshub.online:443",
     "website": "https://nodeshub.online",
     "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rest.lavenderfive.com:443/juno",
+    "website": "https://lavenderfive.com:443/juno",
+    "weight": 1
   }
 ]

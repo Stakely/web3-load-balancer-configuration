@@ -61,3 +61,7 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Quasar:
   - LCD: https://quasar-lcd.stakely.io
   - RPC: https://quasar-rpc.stakely.io
+- Taiko:
+  - JSON-RPC: https://taiko-json-rpc.stakely.io
+- Fantom:
+  - JSON-RPC: https://fantom-json-rpc.stakely.io

@@ -270,5 +270,11 @@
     "url": "https://cosmos-hub.drpc.org",
     "website": "https://drpc.org",
     "weight": 1
+  },
+  {
+    "name": "Lava",
+    "url": "https://cosmoshub.tendermintrpc.lava.build:443",
+    "website": "https://lava.build",
+    "weight": 1
   }
 ]

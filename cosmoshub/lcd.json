@@ -230,5 +230,11 @@
     "url": "https://cosmos-api.stakeandrelax.net",
     "website": "https://stakeandrelax.net",
     "weight": 1
+  },
+  {
+    "name": "Lava",
+    "url": "https://cosmoshub.lava.build:443",
+    "website": "https://lava.build",
+    "weight": 1
   }
 ]

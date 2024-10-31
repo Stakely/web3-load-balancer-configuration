@@ -88,5 +88,11 @@
     "url": "https://terra-rpc.cosmosrescue.dev:8443",
     "website": "https://cosmosrescue.dev",
     "weight": 1
+  },
+  {
+    "name": "r93AX Nodes",
+    "url": "https://rpc-archive-terra.r93axnodes.cloud:443",
+    "website": "https://r93axnodes.cloud",
+    "weight": 1
   }
 ]

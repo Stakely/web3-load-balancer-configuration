@@ -82,5 +82,11 @@
     "url": "https://terra-api.cosmosrescue.dev:8443",
     "website": "https://cosmosrescue.dev",
     "weight": 1
+  },
+  {
+    "name": "r93AX Nodes",
+    "url": "https://api-archive-terra.r93axnodes.cloud:443",
+    "website": "https://r93axnodes.cloud",
+    "weight": 1
   }
 ]

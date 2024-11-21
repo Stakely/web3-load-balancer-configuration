@@ -276,5 +276,11 @@
     "url": "https://cosmoshub.tendermintrpc.lava.build:443",
     "website": "https://lava.build",
     "weight": 1
+  },
+  {
+    "name": "ITRocket",
+    "url": "https://cosmoshub-mainnet-rpc.itrocket.net",
+    "website": "https://itrocket.net",
+    "weight": 1
   }
 ]

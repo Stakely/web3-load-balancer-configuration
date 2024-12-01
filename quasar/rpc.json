@@ -81,5 +81,11 @@
     "url": "https://quasar-rpc.genznodes.dev",
     "website": "https://genznodes.dev",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://quasar-rpc.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

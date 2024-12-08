@@ -196,5 +196,11 @@
     "url": "https://juno.rpc.nodeshub.online:443",
     "website": "https://nodeshub.online",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://juno-rpc.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

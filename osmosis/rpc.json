@@ -202,5 +202,11 @@
     "url": "https://osmosis.drpc.org",
     "website": "https://drpc.org",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://osmosis-rpc.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

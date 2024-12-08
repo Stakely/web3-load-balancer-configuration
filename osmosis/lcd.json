@@ -178,5 +178,11 @@
     "url": "https://rest.lavenderfive.com:443/osmosis",
     "website": "https://lavenderfive.com:443/osmosis",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://osmosis-api.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

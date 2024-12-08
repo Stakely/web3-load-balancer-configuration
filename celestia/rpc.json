@@ -186,5 +186,11 @@
     "url": "https://rpc.celestia.mainnet.dteam.tech:443",
     "website": "https://dteam.tech",
     "weight": 1
+  },
+  {
+    "name": "Stake&Relax Validator 🦥",
+    "url": "https://celestia-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
   }
 ]

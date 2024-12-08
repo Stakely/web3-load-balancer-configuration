@@ -173,5 +173,11 @@
     "url": "https://api.celestia.mainnet.dteam.tech:443",
     "website": "https://dteam.tech",
     "weight": 1
+  },
+  {
+    "name": "Stake&Relax Validator 🦥",
+    "url": "https://celestia-api.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
   }
 ]

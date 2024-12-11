@@ -282,5 +282,11 @@
     "url": "https://cosmoshub-mainnet-rpc.itrocket.net",
     "website": "https://itrocket.net",
     "weight": 1
+  },
+  {
+    "name": "Quasar",
+    "url": "https://cosmoshub.rpc.quasarstaking.ai",
+    "website": "https://quasarstaking.ai",
+    "weight": 1
   }
 ]

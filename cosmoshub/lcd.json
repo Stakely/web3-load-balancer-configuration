@@ -242,5 +242,11 @@
     "url": "https://cosmoshub-mainnet-api.itrocket.net",
     "website": "https://itrocket.net",
     "weight": 1
+  },
+  {
+    "name": "Quasar",
+    "url": "https://cosmoshub.api.quasarstaking.ai",
+    "website": "https://quasarstaking.ai",
+    "weight": 1
   }
 ]

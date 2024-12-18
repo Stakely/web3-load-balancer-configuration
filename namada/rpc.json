@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "namada-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Mandragora",
+    "website": "https://mandragora.io",
+    "url": "https://namada-rpc.mandragora.io/",
+    "weight": 1
+  }
+]

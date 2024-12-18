@@ -2,7 +2,7 @@
   {
     "name": "Stakely",
     "website": "https://stakely.io",
-    "url": "namada-rpc-server-01.stakely.io",
+    "url": "https://namada-rpc-server-01.stakely.io",
     "keybase": "55A5F88B4ED52D3E",
     "weight": 1.1
   },
@@ -88,5 +88,25 @@
     "website": "https://stakepool.dev.br",
     "weight": 1,
     "keybase": "370034D7C9E4A0B1"
+  },
+  {
+    "name": "Emberstake",
+    "url": "https://namada-rpc.emberstake.xyz/",
+    "website": "https://emberstake.xyz",
+    "weight": 1,
+    "keybase": "D9D76FF1153010A5"
+  },
+  {
+    "name": "Mellifera",
+    "url": "https://namada-mainnet-rpc.mellifera.network/",
+    "website": "https://mellifera.network",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-namada-01.stakeflow.io/",
+    "website": "https://stakeflow.io",
+    "weight": 1,
+    "keybase": "205B591721D10A73"
   }
 ]

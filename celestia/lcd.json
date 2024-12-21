@@ -175,6 +175,12 @@
     "weight": 1
   },
   {
+    "name": "NodeStake",
+    "url": "https://api.celestia.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
+  },
+  {
     "name": "Stake&Relax Validator 🦥",
     "url": "https://celestia-api.stakeandrelax.net",
     "website": "https://stakeandrelax.net",

@@ -188,6 +188,12 @@
     "weight": 1
   },
   {
+    "name": "NodeStake",
+    "url": "https://rpc.celestia.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
+  },
+  {
     "name": "Stake&Relax Validator 🦥",
     "url": "https://celestia-rpc.stakeandrelax.net",
     "website": "https://stakeandrelax.net",

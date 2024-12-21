@@ -128,5 +128,11 @@
     "url": "https://rpc.agoric.bronbro.io:443",
     "website": "https://bronbro.io",
     "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://rpc.agoric.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
   }
 ]

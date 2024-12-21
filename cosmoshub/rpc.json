@@ -278,6 +278,12 @@
     "weight": 1
   },
   {
+    "name": "NodeStake",
+    "url": "https://rpc.cosmos.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
+  },
+  {
     "name": "ITRocket",
     "url": "https://cosmoshub-mainnet-rpc.itrocket.net",
     "website": "https://itrocket.net",
@@ -287,6 +293,12 @@
     "name": "Quasar",
     "url": "https://cosmoshub.rpc.quasarstaking.ai",
     "website": "https://quasarstaking.ai",
+    "weight": 1
+  },
+  {
+    "name": "Inter Blockchain Services",
+    "url": "https://cosmos-rpc.ibs.team",
+    "website": "https://ibs.team",
     "weight": 1
   }
 ]

@@ -88,5 +88,11 @@
     "url": "https://api-archive-terra.r93axnodes.cloud:443",
     "website": "https://r93axnodes.cloud",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://terra-api.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

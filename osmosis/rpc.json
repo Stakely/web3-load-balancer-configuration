@@ -208,5 +208,11 @@
     "url": "https://osmosis-rpc.chainroot.io",
     "website": "https://chainroot.io",
     "weight": 1
+  },
+  {
+    "name": "Quasar",
+    "url": "https://osmosis.rpc.quasarstaking.ai:443",
+    "website": "https://quasarstaking.ai",
+    "weight": 1
   }
 ]

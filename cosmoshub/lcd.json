@@ -259,5 +259,11 @@
     "url": "https://cosmos-api.ibs.team",
     "website": "https://ibs.team",
     "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://api.cosmoshub-4-archive.citizenweb3.com:443",
+    "website": "https://citizenweb3.com",
+    "weight": 1
   }
 ]

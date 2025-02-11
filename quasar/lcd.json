@@ -87,5 +87,11 @@
     "url": "https://rest.lavenderfive.com:443/quasar",
     "website": "https://lavenderfive.com:443/quasar",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://quasar-api.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

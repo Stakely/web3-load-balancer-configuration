@@ -181,5 +181,11 @@
     "url": "https://archway-api.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://archway-api.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

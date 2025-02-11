@@ -176,5 +176,11 @@
     "url": "https://archway-rpc.noders.services",
     "website": "https://noders.services",
     "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://archway-rpc.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

@@ -88,5 +88,17 @@
     "url": "https://terra-rpc.cosmosrescue.dev:8443",
     "website": "https://cosmosrescue.dev",
     "weight": 1
+  },
+  {
+    "name": "r93AX Nodes",
+    "url": "https://rpc-archive-terra.r93axnodes.cloud:443",
+    "website": "https://r93axnodes.cloud",
+    "weight": 1
+  },
+  {
+    "name": "Chainroot",
+    "url": "https://terra-rpc.chainroot.io",
+    "website": "https://chainroot.io",
+    "weight": 1
   }
 ]

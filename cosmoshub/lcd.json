@@ -229,5 +229,41 @@
     "url": "https://cosmos-api.stakeandrelax.net",
     "website": "https://stakeandrelax.net",
     "weight": 1
+  },
+  {
+    "name": "Lava",
+    "url": "https://cosmoshub.lava.build:443",
+    "website": "https://lava.build",
+    "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://api.cosmos.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
+  },
+  {
+    "name": "ITRocket",
+    "url": "https://cosmoshub-mainnet-api.itrocket.net",
+    "website": "https://itrocket.net",
+    "weight": 1
+  },
+  {
+    "name": "Quasar",
+    "url": "https://cosmoshub.api.quasarstaking.ai",
+    "website": "https://quasarstaking.ai",
+    "weight": 1
+  },
+  {
+    "name": "Inter Blockchain Services",
+    "url": "https://cosmos-api.ibs.team",
+    "website": "https://ibs.team",
+    "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://api.cosmoshub-4-archive.citizenweb3.com:443",
+    "website": "https://citizenweb3.com",
+    "weight": 1
   }
 ]

@@ -106,5 +106,11 @@
     "url": "https://agoric.api.m.stavr.tech",
     "website": "https://stavr.tech",
     "weight": 1
+  },
+  {
+    "name": "NodeStake",
+    "url": "https://api.agoric.nodestake.org",
+    "website": "https://nodestake.org",
+    "weight": 1
   }
 ]

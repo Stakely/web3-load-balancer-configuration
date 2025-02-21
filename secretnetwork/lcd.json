@@ -85,12 +85,6 @@
     "weight": 1
   },
   {
-    "name": "Lavender.Five Nodes 🐝",
-    "url": "https://secretnetwork-api.lavenderfive.com:443",
-    "website": "https://lavenderfive.com",
-    "weight": 1
-  },
-  {
     "name": "AutoStake 🛡️ Slash Protected",
     "url": "http://secretnetwork-mainnet-lcd.autostake.com:1317",
     "website": "https://autostake.com",
@@ -105,7 +99,7 @@
   {
     "name": "Stakewolle",
     "url": "https://public.stakewolle.com/cosmos/secretnetwork/rest",
-    "website": "https://stakewolle.com/cosmos/secretnetwork/rest",
+    "website": "https://stakewolle.com",
     "weight": 1
   },
   {

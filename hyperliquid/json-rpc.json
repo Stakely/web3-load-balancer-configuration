@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HyperLiquid",
+    "website": "https://hyperfoundation.org/",
+    "url": "https://rpc.hyperliquid.xyz/evm",
+    "weight": 1
+  },
+  {
+    "name": "Hypurrscan",
+    "website": "https://hypurrscan.io",
+    "url": "https://rpc.hypurrscan.io",
+    "weight": 1
+  }
+]

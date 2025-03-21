@@ -214,5 +214,11 @@
     "url": "https://osmosis.rpc.quasarstaking.ai:443",
     "website": "https://quasarstaking.ai",
     "weight": 1
+  },
+  {
+    "name": "Reliable Ninjas",
+    "url": "https://osmosis-mainnet-tendermint.reliableninjas.com",
+    "website": "https://reliableninjas.com",
+    "weight": 1
   }
 ]

@@ -14,7 +14,7 @@
     "weight": 1
   },
   {
-    "name": "Impactmarket",
+    "name": "Impactmarket 3",
     "website": "https://impactmarket.io",
     "url": "https://celo-rpc-3.impactmarket.io",
     "weight": 1
@@ -236,7 +236,7 @@
     "weight": 1
   },
   {
-    "name": "Impactmarket",
+    "name": "Impactmarket 4",
     "website": "https://impactmarket.io",
     "url": "https://celo-rpc-4.impactmarket.io",
     "weight": 1
@@ -326,7 +326,7 @@
     "weight": 1
   },
   {
-    "name": "Cloud9ers",
+    "name": "Cloud9ers 2",
     "website": "https://cloud9ers.com",
     "url": "https://celo02.cloud9ers.com",
     "weight": 1
@@ -543,7 +543,7 @@
     "weight": 1
   },
   {
-    "name": "atalma-1",
+    "name": "Atalma-1",
     "website": "https://atalma.io",
     "url": "https://miami-1.rpc.celo.atalma.io",
     "keybase": "04EFE449EB6414B5",

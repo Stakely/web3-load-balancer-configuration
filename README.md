@@ -67,3 +67,5 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - JSON-RPC: https://fantom-json-rpc.stakely.io
 - Hyperliquid
   - JSON-RPC: https://hyperliquid-json-rpc.stakely.io
+- Celo
+  - JSON-RPC: https://celo-json-rpc.stakely.io

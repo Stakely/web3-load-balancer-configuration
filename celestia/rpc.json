@@ -198,5 +198,11 @@
     "url": "https://celestia-rpc.stakeandrelax.net",
     "website": "https://stakeandrelax.net",
     "weight": 1
+  },
+  {
+    "name": "Pro-Nodes75",
+    "url": "https://rpc.celestia.node75.org",
+    "website": "https://node75.org",
+    "weight": 1
   }
 ]

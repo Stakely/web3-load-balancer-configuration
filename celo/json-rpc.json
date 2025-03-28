@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Stakely.io",
+    "website": "https://stakely.io",
+    "url": "https://celo-rpc-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Chainvibes",
+    "website": "https://chainvibes.nl",
+    "url": "https://celo.chainvibes.nl",
+    "keybase": "FBB4DB16FAE99C41",
+    "weight": 1
+  },
+  {
+    "name": "Impactmarket",
+    "website": "https://impactmarket.io",
+    "url": "https://celo-rpc-3.impactmarket.io",
+    "weight": 1
+  },
+  {
+    "name": "Validator.Capital 2",
+    "website": "https://validator.capital",
+    "url": "https://rpc-v2.validator.capital",
+    "weight": 1
+  },
+  {
+    "name": "Figment Networks 1",
+    "website": "https://figment.io",
+    "url": "https://celo-mainnet-rpc--figment-1.staking.production.figment.io",
+    "weight": 1
+  },
+  {
+    "name": "Censusworks .2",
+    "website": "https://census.works",
+    "url": "https://r2.census.works",
+    "weight": 1
+  },
+  {
+    "name": "Validator.Capital1",
+    "website": "https://validator.capital",
+    "url": "https://rpc-v1.validator.capital",
+    "weight": 1
+  },
+  {
+    "name": "Figment Networks 4",
+    "website": "https://figment.io",
+    "url": "https://celo-mainnet-rpc--figment-4.staking.production.figment.io",
+    "weight": 1
+  },
+  {
+    "name": "DSRV-1",
+    "website": "https://dsrvlabs.com",
+    "url": "https://nonce-validator-01.celo.dsrvlabs.net",
+    "keybase": "CC434B6FE536F51B",
+    "weight": 1
+  },
+  {
+    "name": "DSRV-2",
+    "website": "https://dsrvlabs.net",
+    "url": "https://dsrv-validator-02.celo.dsrvlabs.net",
+    "keybase": "CC434B6FE536F51B",
+    "weight": 1
+  },
+  {
+    "name": "Ryabina Validator 1",
+    "website": "https://ryabina.io",
+    "url": "https://celo-rpc-1.ryabina.io",
+    "keybase": "6B1C8FDD84CF4ACD",
+    "weight": 1
+  },
+  {
+    "name": "Ledger by Figment 1",
+    "website": "https://figment.io",
+    "url": "https://celo-mainnet-rpc--ledger-3.staking.production.figment.io",
+    "keybase": "8687EB49D3AC9208",
+    "weight": 1
+  },
+  {
+    "name": "Wotrust 2",
+    "website": "https://wotrust.us",
+    "url": "https://rpc-celo2.wotrust.us",
+    "weight": 1
+  },
+  {
+    "name": "Atweb3-3",
+    "website": "https://atweb3.dev",
+    "url": "https://celo-rpc-03.atweb3.dev",
+    "weight": 1
+  },
+  {
+    "name": "Perfect_Stake.1",
+    "website": "https://perfectstake.com",
+    "url": "https://celo-rpc1.perfectstake.com",
+    "keybase": "671A36F80118D52E",
+    "weight": 1
+  },
+  {
+    "name": "Moonli.me_2",
+    "website": "https://moonli.me",
+    "url": "https://celo-rpc2.moonli.me",
+    "keybase": "662AEC27BD90D036",
+    "weight": 1
+  },
+  {
+    "name": "GrassrootsEconomics-2",
+    "website": "https://grassecon.org",
+    "url": "https://r2.celo.grassecon.org",
+    "weight": 1
+  },
+  {
+    "name": "Making.cash",
+    "website": "https://making.cash",
+    "url": "https://celo-rpc1.making.cash",
+    "keybase": "D21C8FB25FE081AA",
+    "weight": 1
+  },
+  {
+    "name": "Eat Pray Validate 1",
+    "website": "https://epv.lol",
+    "url": "https://rpc1.epv.lol",
+    "weight": 1
+  },
+  {
+    "name": "Censusworks.0",
+    "website": "https://census.works",
+    "url": "https://r0.census.works",
+    "weight": 1
+  },
+  {
+    "name": "Zanshin-v1",
+    "website": "https://zanshindojo.org",
+    "url": "https://celo-rpc-v1.zanshindojo.org",
+    "keybase": "AE59018091EEC534",
+    "weight": 1
+  },
+  {
+    "name": "ImpactMarket-5",
+    "website": "https://impactmarket.io",
+    "url": "https://celo-rpc-5.impactmarket.io",
+    "weight": 1
+  },
+  {
+    "name": "Atalma-2",
+    "website": "https://atalma.io",
+    "url": "https://miami-2.rpc.celo.atalma.io",
+    "keybase": "04EFE449EB6414B5",
+    "weight": 1
+  },
+  {
+    "name": "TPT3",
+    "website": "https://thepassivetrust.com",
+    "url": "https://celo-rpc-2.thepassivetrust.com",
+    "keybase": "B8F71360621FA22F",
+    "weight": 1
+  },
+  {
+    "name": "Validator.Capital3",
+    "website": "https://validator.capital",
+    "url": "https://rpc-v3.validator.capital",
+    "weight": 1
+  },
+  {
+    "name": "Blockdaemon-0",
+    "website": "https://blockdaemon.tech",
+    "url": "https://celo-mainnet-rpcaas-2.blockdaemon.tech",
+    "keybase": "35892AC552B8A0A8",
+    "weight": 1
+  },
+  {
+    "name": "Zanshindojo",
+    "website": "https://zanshindojo.org",
+    "url": "https://celo-rpc-v0.zanshindojo.org",
+    "keybase": "AE59018091EEC534",
+    "weight": 1
+  },
+  {
+    "name": "Atalma-3",
+    "website": "https://atalma.io",
+    "url": "https://tokyo-1.rpc.celo.atalma.io",
+    "keybase": "04EFE449EB6414B5",
+    "weight": 1
+  },
+  {
+    "name": "StakeService.com",
+    "website": "https://stakeservice.com",
+    "url": "https://celo-rpc1.stakeservice.com",
+    "keybase": "7128D72DD6CE51AC",
+    "weight": 1
+  },
+  {
+    "name": "Atweb3-2",
+    "website": "https://atweb3.dev",
+    "url": "https://celo-rpc-02.atweb3.dev",
+    "weight": 1
+  },
+  {
+    "name": "Cypher Core",
+    "website": "https://cyphercore.io",
+    "url": "https://celo-rpc.cyphercore.io",
+    "weight": 1
+  },
+  {
+    "name": "ChainLayer",
+    "website": "https://quickapi.com",
+    "url": "https://celo-rpc.quickapi.com",
+    "keybase": "AD3CDBC91802F94A",
+    "weight": 1
+  },
+  {
+    "name": "PlusV N2",
+    "website": "https://plusv.io",
+    "url": "https://cr1.plusv.io",
+    "weight": 1
+  },
+  {
+    "name": "CypherCore-2",
+    "website": "https://cyphercore.io",
+    "url": "https://celo-rpc-2.cyphercore.io",
+    "weight": 1
+  },
+
+  {
+    "name": "Ledger by Figment 3",
+    "website": "https://figment.io",
+    "url": "https://celo-mainnet-rpc--ledger-1.staking.production.figment.io",
+    "keybase": "8687EB49D3AC9208",
+    "weight": 1
+  },
+  {
+    "name": "DSRV-1",
+    "website": "https://dsrvlabs.net",
+    "url": "https://dsrv-validator-01.celo.dsrvlabs.net",
+    "keybase": "CC434B6FE536F51B",
+    "weight": 1
+  },
+  {
+    "name": "Impactmarket",
+    "website": "https://impactmarket.io",
+    "url": "https://celo-rpc-4.impactmarket.io",
+    "weight": 1
+  },
+  {
+    "name": "ZKV",
+    "website": "https://zkv.xyz",
+    "url": "https://celo-mainnet.zkv.xyz",
+    "keybase": "3E38E52A12F94561",
+    "weight": 1
+  },
+  {
+    "name": "Staking Fund #2",
+    "website": "https://staking.fund",
+    "url": "https://celo-2.staking.fund",
+    "keybase": "805F39B20E881861",
+    "weight": 1
+  },
+  {
+    "name": "Stakecito",
+    "website": "https://stakecito.com",
+    "url": "https://celo-rpc.stakecito.com",
+    "keybase": "D16E26E5C8154E17",
+    "weight": 1
+  },
+  {
+    "name": "Wotrust 1",
+    "website": "https://wotrust.us",
+    "url": "https://rpc-celo1.wotrust.us",
+    "weight": 1
+  },
+  {
+    "name": "Hashkey cloud",
+    "website": "https://hashkey.cloud",
+    "url": "https://celo-rpc.hashkey.cloud",
+    "keybase": "CB79CF86DBD56A19",
+    "weight": 1
+  },
+  {
+    "name": "Swiftstaking",
+    "website": "https://swiftstaking.com",
+    "url": "https://celo-rpc-mainnet-1.swiftstaking.com",
+    "keybase": "B98ACE8628D71DD4",
+    "weight": 1
+  },
+  {
+    "name": "Censusworks.1",
+    "website": "https://census.works",
+    "url": "https://r1.census.works",
+    "weight": 1
+  },
+  {
+    "name": "Usopp",
+    "website": "https://usopp.club",
+    "url": "https://rpcm1.usopp.club",
+    "weight": 1
+  },
+  {
+    "name": "Staking Fund #1",
+    "website": "https://staking.fund",
+    "url": "https://celo-1.staking.fund",
+    "keybase": "805F39B20E881861",
+    "weight": 1
+  },
+  {
+    "name": "GrassrootsEconomics-3",
+    "website": "https://grassecon.org",
+    "url": "https://r3.celo.grassecon.org",
+    "weight": 1
+  },
+  {
+    "name": "Impactmarket 1",
+    "website": "https://impactmarket.io",
+    "url": "https://celo-rpc-1.impactmarket.io",
+    "weight": 1
+  },
+  {
+    "name": "Usopp",
+    "website": "https://usopp.club",
+    "url": "https://rpcm4.usopp.club",
+    "weight": 1
+  },
+  {
+    "name": "Celvaly 2",
+    "website": "https://celvaly.com",
+    "url": "https://rpc2.celvaly.com",
+    "weight": 1
+  },
+  {
+    "name": "Cloud9ers",
+    "website": "https://cloud9ers.com",
+    "url": "https://celo02.cloud9ers.com",
+    "weight": 1
+  },
+  {
+    "name": "Validator.ag AGx1-Arnold",
+    "website": "https://validator.ag",
+    "url": "https://celo-mainnet-agx1-arnold-rpc.validator.ag",
+    "keybase": "4835DE7701A216D4",
+    "weight": 1
+  },
+  {
+    "name": "Celvaly 1",
+    "website": "https://celvaly.com",
+    "url": "https://rpc1.celvaly.com",
+    "weight": 1
+  },
+  {
+    "name": "Thecelo",
+    "website": "https://thecelo.com",
+    "url": "https://rpc.thecelo.com",
+    "weight": 1
+  },
+  {
+    "name": "Wotrust 5",
+    "website": "https://wotrust.us",
+    "url": "https://rpc-celo5.wotrust.us",
+    "weight": 1
+  },
+  {
+    "name": "Eat Pray Validate 2",
+    "website": "https://epv.lol",
+    "url": "https://rpc2.epv.lol",
+    "weight": 1
+  },
+  {
+    "name": "Ryabina Validator 3",
+    "website": "https://ryabina.io",
+    "url": "https://celo-rpc-3.ryabina.io",
+    "keybase": "6B1C8FDD84CF4ACD",
+    "weight": 1
+  },
+  {
+    "name": "Validator.ag AGx2-Bruce",
+    "website": "https://validator.ag",
+    "url": "https://celo-mainnet-agx2-bruce-rpc.validator.ag",
+    "keybase": "4835DE7701A216D4",
+    "weight": 1
+  },
+  {
+    "name": "Wotrust 3",
+    "website": "https://wotrust.us",
+    "url": "https://rpc-celo3.wotrust.us",
+    "weight": 1
+  },
+  {
+    "name": "Ministryofblocks",
+    "website": "https://ministryofblocks.com",
+    "url": "https://celo-rpc.ministryofblocks.com",
+    "weight": 1
+  },
+  {
+    "name": "HappyCelo-val-2",
+    "website": "https://happycelo.com",
+    "url": "https://mainnet-rpc-2.happycelo.com/",
+    "keybase": "895C97B7117C2E8A",
+    "weight": 1
+  },
+  {
+    "name": "Censusworks.3",
+    "website": "https://census.works",
+    "url": "https://r3.census.works",
+    "weight": 1
+  },
+  {
+    "name": "kytzu",
+    "website": "https://kytzu.com",
+    "url": "https://celo-rpc.kytzu.com",
+    "keybase": "909A480D5643CCC5",
+    "weight": 1
+  },
+  {
+    "name": "Validator.ag AGx3-Chuck",
+    "website": "https://validator.ag",
+    "url": "https://celo-mainnet-agx3-chuck-rpc.validator.ag",
+    "keybase": "4835DE7701A216D4",
+    "weight": 1
+  },
+  {
+    "name": "Perfect_Stake.2",
+    "website": "https://perfectstake.com",
+    "url": "https://celo-rpc2.perfectstake.com",
+    "keybase": "671A36F80118D52E",
+    "weight": 1
+  },
+  {
+    "name": "Blockdaemon-1",
+    "website": "https://blockdaemon.tech",
+    "url": "https://celo-mainnet-rpcaas-1.blockdaemon.tech",
+    "keybase": "35892AC552B8A0A8",
+    "weight": 1
+  },
+  {
+    "name": "Swiftstaking-v2",
+    "website": "https://swiftstaking.com",
+    "url": "https://celo-rpc-mainnet-2.swiftstaking.com",
+    "keybase": "B98ACE8628D71DD4",
+    "weight": 1
+  },
+  {
+    "name": "GrassrootsEconomics-1",
+    "website": "https://grassecon.org",
+    "url": "https://r1.celo.grassecon.org",
+    "weight": 1
+  },
+  {
+    "name": "Wotrust 4",
+    "website": "https://wotrust.us",
+    "url": "https://rpc-celo4.wotrust.us",
+    "weight": 1
+  },
+  {
+    "name": "Syncnode",
+    "website": "https://syncnode.ro",
+    "url": "https://rpccelo.syncnode.ro",
+    "keybase": "F422F328C14AFBFA",
+    "weight": 1
+  },
+  {
+    "name": "Ledger by Figment 2",
+    "website": "https://figment.io",
+    "url": "https://celo-mainnet-rpc--ledger-2.staking.production.figment.io",
+    "keybase": "8687EB49D3AC9208",
+    "weight": 1
+  },
+  {
+    "name": "StakeService.com-2",
+    "website": "https://stakeservice.com",
+    "url": "https://celo-rpc2.stakeservice.com",
+    "keybase": "7128D72DD6CE51AC",
+    "weight": 1
+  },
+  {
+    "name": "Ryabina Validator 2",
+    "website": "https://ryabina.io",
+    "url": "https://celo-rpc-2.ryabina.io",
+    "keybase": "6B1C8FDD84CF4ACD",
+    "weight": 1
+  },
+  {
+    "name": "Cloud9ers 1",
+    "website": "https://cloud9ers.com",
+    "url": "https://celo01.cloud9ers.com",
+    "weight": 1
+  },
+  {
+    "name": "Moonli.me 1",
+    "website": "https://moonli.me",
+    "url": "https://celo-rpc1.moonli.me",
+    "keybase": "662AEC27BD90D036",
+    "weight": 1
+  },
+  {
+    "name": "Impactmarket 2",
+    "website": "https://impactmarket.io",
+    "url": "https://celo-rpc-2.impactmarket.io",
+    "keybase": "FBB4DB16FAE99C41",
+    "weight": 1
+  },
+  {
+    "name": "GrassrootsEconomics-4",
+    "website": "https://grassecon.org",
+    "url": "https://r4.celo.grassecon.org",
+    "weight": 1
+  },
+  {
+    "name": "Atweb3-1",
+    "website": "https://atweb3.dev",
+    "url": "https://celo-rpc-01.atweb3.dev",
+    "weight": 1
+  },
+  {
+    "name": "Celvaly-0",
+    "website": "https://celvaly.com",
+    "url": "https://rpc0.celvaly.com",
+    "weight": 1
+  },
+  {
+    "name": "Thepassivetrust TPT2",
+    "website": "https://thepassivetrust.com",
+    "url": "https://celo-rpc-1.thepassivetrust.com",
+    "keybase": "B8F71360621FA22F",
+    "weight": 1
+  },
+  {
+    "name": "HappyCelo-val-1",
+    "website": "https://happycelo.com",
+    "url": "https://mainnet-rpc-1.happycelo.com/",
+    "keybase": "895C97B7117C2E8A",
+    "weight": 1
+  },
+  {
+    "name": "NewroadNetwork",
+    "website": "https://newroad.network",
+    "url": "https://celo.newroad.network",
+    "keybase": "F898ACE263EC1C4E",
+    "weight": 1
+  },
+  {
+    "name": "0xFEA3a9f2b28E9EeA5EB14bE130c7C79459B2AA5e",
+    "website": "https://usopp.club",
+    "url": "https://rpcm3.usopp.club",
+    "keybase": "",
+    "weight": 1
+  },
+  {
+    "name": "atalma-1",
+    "website": "https://atalma.io",
+    "url": "https://miami-1.rpc.celo.atalma.io",
+    "keybase": "04EFE449EB6414B5",
+    "weight": 1
+  }
+]

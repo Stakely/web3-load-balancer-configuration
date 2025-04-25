@@ -7,20 +7,6 @@
     "weight": 1.1
   },
   {
-    "name": "Stakely 2",
-    "website": "https://stakely.io",
-    "url": "https://fantom-rpc-server-02.stakely.io",
-    "keybase": "55A5F88B4ED52D3E",
-    "weight": 1.1
-  },
-  {
-    "name": "Stakely 3",
-    "website": "https://stakely.io",
-    "url": "https://fantom-rpc-server-03.stakely.io",
-    "keybase": "55A5F88B4ED52D3E",
-    "weight": 1.1
-  },
-  {
     "name": "Publicnode",
     "website": "https://publicnode.com",
     "url": "https://fantom-rpc.publicnode.com",

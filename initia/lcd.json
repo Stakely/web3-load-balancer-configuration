@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://initia-lcd-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Initia",
+    "website": "https://initia.xyz",
+    "url": "https://rest.initia.xyz",
+    "weight": 1
+  },
+  {
+    "name": "Autostake",
+    "website": "https://autostake.com",
+    "url": "https://initia-mainnet-lcd.autostake.com/",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://initia-api.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  }
+]

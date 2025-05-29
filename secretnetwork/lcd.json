@@ -66,7 +66,7 @@
   {
     "name": "High Stakes Switzerland",
     "website": "https://highstakes.ch/",
-    "url": "https://secretnetwork-api.highstakes.ch",
+    "url": "https://secretnetwork-api.highstakes.ch:1317",
     "keybase": "2CB281A714F6133B",
     "weight": 1
   },
@@ -104,8 +104,14 @@
   },
   {
     "name": "Lavender.Five Nodes 🐝",
-    "url": "https://rest.lavenderfive.com:443/secretnetwork",
-    "website": "https://lavenderfive.com:443/secretnetwork",
+    "url": "https://secretnetwork-api.lavenderfive.com:443",
+    "website": "https://lavenderfive.com",
+    "weight": 1
+  },
+  {
+    "name": "Ankr",
+    "url": "https://rpc.ankr.com/http/scrt_cosmos",
+    "website": "https://ankr.com",
     "weight": 1
   }
 ]

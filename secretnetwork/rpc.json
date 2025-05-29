@@ -53,13 +53,6 @@
     "weight": 1
   },
   {
-    "name": "Agoranodes",
-    "website": "https://agoranodes.com",
-    "url": "https://scrt-rpc.agoranodes.com",
-    "keybase": "89BE1A153AC17E34",
-    "weight": 1
-  },
-  {
     "name": "SCRT Labs",
     "website": "https://scrtlabs.com",
     "url": "https://lcd-secret.scrtlabs.com/rpc",
@@ -67,23 +60,9 @@
     "weight": 1
   },
   {
-    "name": "Lavender.Five",
-    "website": "https://www.lavenderfive.com",
-    "url": "https://rpc.lavenderfive.com:443/secretnetwork",
-    "keybase": "F87ADDB700C0CC94",
-    "weight": 1
-  },
-  {
     "name": "Secret Express API",
     "website": "https://secret.express",
     "url": "https://rpc.secret.express",
-    "weight": 1
-  },
-  {
-    "name": "High Stakes Switzerland",
-    "website": "https://highstakes.ch/",
-    "url": "https://secretnetwork-rpc.highstakes.ch",
-    "keybase": "2CB281A714F6133B",
     "weight": 1
   },
   {
@@ -116,6 +95,26 @@
     "name": "Stakewolle",
     "url": "https://public.stakewolle.com/cosmos/secretnetwork/rpc",
     "website": "https://stakewolle.com/cosmos/secretnetwork/rpc",
+    "weight": 1
+  },
+  {
+    "name": "Whispernode",
+    "url": "https://rpc-secret.whispernode.com:443",
+    "website": "https://whispernode.com",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "website": "https://www.lavenderfive.com",
+    "url": "https://secretnetwork-rpc.lavenderfive.com:443",
+    "keybase": "F87ADDB700C0CC94",
+    "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "website": "https://highstakes.ch/",
+    "url": "https://secretnetwork-rpc.highstakes.ch:26657",
+    "keybase": "2CB281A714F6133B",
     "weight": 1
   }
 ]

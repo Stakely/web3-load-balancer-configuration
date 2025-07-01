@@ -201,6 +201,13 @@
     "weight": 1
   },
   {
+    "url": "https://rpc-celestia-mainnet.validexis.com",
+    "name": "VALIDEXIS",
+    "website": "https://validexis.com",
+    "keybase": "34DA4858CF0FBA77",
+    "weight": 1
+  },
+  {
     "name": "Pro-Nodes75",
     "url": "https://rpc.celestia.node75.org",
     "website": "https://node75.org",

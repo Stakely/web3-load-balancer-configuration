@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://sonic-json-rpc-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://sonic-rpc.publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "Sonic labs",
+    "website": "https://soniclabs.com",
+    "url": "https://rpc.soniclabs.com",
+    "weight": 1
+  },
+  {
+    "name": "The RPC",
+    "website": "https://therpc.io",
+    "url": "https://rpc.therpc.io/sonic",
+    "weight": 1
+  },
+  {
+    "name": "Ankr",
+    "website": "https://ankr.com",
+    "url": "https://rpc.ankr.com/sonic_mainnet",
+    "weight": 1
+  },
+  {
+    "name": "Onfinality",
+    "website": "https://onfinality.io",
+    "url": "https://sonic.api.onfinality.io/public",
+    "weight": 1
+  },
+  {
+    "name": "DRPC",
+    "website": "https://drpc.org/",
+    "url": "https://sonic.drpc.org",
+    "weight": 1
+  }
+]
+

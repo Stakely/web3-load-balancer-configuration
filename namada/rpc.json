@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://namada-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Mandragora",
+    "website": "https://mandragora.io",
+    "url": "https://namada-rpc.mandragora.io/",
+    "weight": 1
+  },
+  {
+    "name": "DTEAM",
+    "url": "https://rpc.namada.mainnet.dteam.tech/",
+    "website": "https://dteam.tech",
+    "weight": 1
+  },
+  {
+    "name": "MurphyNode",
+    "url": "https://namada-rpc.murphynode.net/",
+    "website": "https://murphynode.net",
+    "weight": 1,
+    "keybase": "A6BA1EDB718724AE"
+  },
+  {
+    "name": "Originstake",
+    "url": "https://namada-rpc-01.originstake.com/",
+    "website": "https://originstake.com",
+    "weight": 1,
+    "keybase": "8708AC95F44038A2"
+  },
+  {
+    "name": "Konsortech",
+    "url": "https://mainnet-namada-rpc.konsortech.xyz/",
+    "website": "https://konsortech.xyz",
+    "weight": 1,
+    "keybase": "2DA657BCEA9489C2"
+  },
+  {
+    "name": "P2P",
+    "url": "https://namada-archive.tm.p2p.org/",
+    "website": "https://p2p.org",
+    "weight": 1
+  },
+  {
+    "name": "CitizenWeb3",
+    "url": "https://rpc.namada.citizenweb3.com/",
+    "website": "https://citizenweb3.com",
+    "weight": 1
+  },
+  {
+    "name": "Validatus",
+    "url": "https://rpc.namada.validatus.com/",
+    "website": "https://validatus.com",
+    "weight": 1,
+    "keybase": "DEF3590B1DCD96A4"
+  },
+  {
+    "name": "5ElementsNodes",
+    "url": "https://rpc-namada.5elementsnodes.com/",
+    "website": "https://5elementsnodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Palamar",
+    "url": "https://namada-rpc.palamar.io/",
+    "website": "https://palamar.io",
+    "weight": 1
+  },
+  {
+    "name": "Stakeup",
+    "url": "https://rpc.namada.stakeup.tech/",
+    "website": "https://stakeup.tech",
+    "weight": 1
+  },
+  {
+    "name": "L0vd",
+    "url": "https://namada-mainnet.rpc.l0vd.com/",
+    "website": "https://l0vd.com",
+    "weight": 1
+  },
+  {
+    "name": "Stakepool",
+    "url": "https://rpc.namada.stakepool.dev.br/",
+    "website": "https://stakepool.dev.br",
+    "weight": 1,
+    "keybase": "370034D7C9E4A0B1"
+  },
+  {
+    "name": "Emberstake",
+    "url": "https://namada-rpc.emberstake.xyz/",
+    "website": "https://emberstake.xyz",
+    "weight": 1,
+    "keybase": "D9D76FF1153010A5"
+  },
+  {
+    "name": "Mellifera",
+    "url": "https://namada-mainnet-rpc.mellifera.network/",
+    "website": "https://mellifera.network",
+    "weight": 1
+  },
+  {
+    "name": "Stakeflow",
+    "url": "https://rpc-namada-01.stakeflow.io/",
+    "website": "https://stakeflow.io",
+    "weight": 1,
+    "keybase": "205B591721D10A73"
+  }
+]

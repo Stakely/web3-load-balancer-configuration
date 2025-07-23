@@ -1,12 +1,5 @@
 [
   {
-    "name": "Stakely",
-    "website": "https://stakely.io",
-    "url": "https://evmos-json-rpc-server-01.stakely.io",
-    "keybase": "55A5F88B4ED52D3E",
-    "weight": 1.1
-  },
-  {
     "name": "Evmos",
     "website": "https://evmos.org",
     "url": "https://eth.bd.evmos.org:8545",

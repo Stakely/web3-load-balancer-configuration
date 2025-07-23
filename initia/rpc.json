@@ -15,7 +15,7 @@
   {
     "name": "Autostake",
     "website": "https://autostake.com",
-    "url": "https://initia-mainnet-rpc.autostake.com:443",
+    "url": "https://initia-mainnet-rpc.autostake.com/",
     "weight": 1
   },
   {
@@ -23,12 +23,6 @@
     "website": "https://polkachu.com",
     "url": "https://initia-rpc.polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
-    "weight": 1
-  },
-  {
-    "name": "Quasar",
-    "url": "https://initia.rpc.quasarstaking.ai:443",
-    "website": "https://quasarstaking.ai",
     "weight": 1
   }
 ]

@@ -41,7 +41,7 @@
   },
   {
     "name": "STAVR",
-    "url": "http://juno.rpc.m.stavr.tech:1067",
+    "url": "https://juno.rpc.m.stavr.tech",
     "website": "https://stavr.tech",
     "weight": 1
   },

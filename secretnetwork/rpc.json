@@ -106,14 +106,14 @@
   {
     "name": "Lavender.Five Nodes 🐝",
     "website": "https://www.lavenderfive.com",
-    "url": "https://secretnetwork-rpc.lavenderfive.com:443",
+    "url": "https://rpc.lavenderfive.com:443/secretnetwork",
     "keybase": "F87ADDB700C0CC94",
     "weight": 1
   },
   {
     "name": "High Stakes 🇨🇭",
     "website": "https://highstakes.ch/",
-    "url": "https://secretnetwork-rpc.highstakes.ch:26657",
+    "url": "https://secretnetwork-rpc.highstakes.ch",
     "keybase": "2CB281A714F6133B",
     "weight": 1
   }

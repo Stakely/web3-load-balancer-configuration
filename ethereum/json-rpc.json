@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://ethereum-json-rpc-server-01.stakely.io:8443",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Llamanodes",
+    "website": "https://llamarpc.com",
+    "url": "https://eth.llamarpc.com",
+    "weight": 1
+  },
+  {
+    "name": "GetBlock",
+    "website": "https://getblock.io",
+    "url": "https://go.getblock.io/aefd01aa907c4805ba3c00a9e5b48c6b",
+    "weight": 1
+  },
+  {
+    "name": "NodeReal",
+    "website": "https://nodereal.io",
+    "url": "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
+    "weight": 1
+  },
+  {
+    "name": "PublicNode",
+    "website": "https://publicnode.com",
+    "url": "https://ethereum-rpc.publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "1RPC",
+    "website": "https://1rpc.io",
+    "url": "https://1rpc.io/eth",
+    "weight": 1
+  },
+  {
+    "name": "Builder0x69",
+    "website": "https://builder0x69.io",
+    "url": "https://rpc.builder0x69.io/",
+    "weight": 1
+  },
+  {
+    "name": "MEVBlocker",
+    "website": "https://mevblocker.io",
+    "url": "https://rpc.mevblocker.io",
+    "weight": 1
+  },
+  {
+    "name": "Flashbots",
+    "website": "https://flashbots.net",
+    "url": "https://rpc.flashbots.net/",
+    "weight": 1
+  },
+  {
+    "name": "BloxRoute Virginia",
+    "website": "https://bloxroute.com",
+    "url": "https://virginia.rpc.blxrbdn.com/",
+    "weight": 1
+  },
+  {
+    "name": "BloxRoute UK",
+    "website": "https://bloxroute.com",
+    "url": "https://uk.rpc.blxrbdn.com/",
+    "weight": 1
+  },
+  {
+    "name": "BloxRoute Singapore",
+    "website": "https://bloxroute.com",
+    "url": "https://singapore.rpc.blxrbdn.com/",
+    "weight": 1
+  },
+  {
+    "name": "BloxRoute",
+    "website": "https://bloxroute.com",
+    "url": "https://eth.rpc.blxrbdn.com/",
+    "weight": 1
+  },
+  {
+    "name": "Cloudflare",
+    "website": "https://cloudflare.com",
+    "url": "https://cloudflare-eth.com/",
+    "weight": 1
+  },
+  {
+    "name": "BlastAPI",
+    "website": "https://blastapi.io",
+    "url": "https://eth-mainnet.public.blastapi.io",
+    "weight": 1
+  },
+  {
+    "name": "SecureRPC",
+    "website": "https://securerpc.com",
+    "url": "https://api.securerpc.com/v1",
+    "weight": 1
+  },
+  {
+    "name": "Bitstack",
+    "website": "https://bitstack.com",
+    "url": "https://openapi.bitstack.com/v1/wNFxbiJyQsSeLrX8RRCHi7NpRxrlErZk/DjShIqLishPCTB9HiMkPHXjUM9CNM9Na/ETH/mainnet",
+    "weight": 1
+  },
+  {
+    "name": "Nodies",
+    "website": "https://nodies.app",
+    "url": "https://eth-pokt.nodies.app",
+    "weight": 1
+  },
+  {
+    "name": "Unifra",
+    "website": "https://unifra.io",
+    "url": "https://eth-mainnet-public.unifra.io",
+    "keybase": "C4496CF00076D16D",
+    "weight": 1
+  },
+  {
+    "name": "BlockPI",
+    "website": "https://blockpi.network",
+    "url": "https://ethereum.public.blockpi.network/v1/rpc/public",
+    "keybase": "DE72F17D1D7586D1",
+    "weight": 1
+  },
+  {
+    "name": "Payload",
+    "website": "https://payload.de",
+    "url": "https://rpc.payload.de",
+    "weight": 1
+  },
+  {
+    "name": "Zmok",
+    "website": "https://zmok.io",
+    "url": "https://api.zmok.io/mainnet/oaen6dy8ff6hju9k",
+    "weight": 1
+  },
+  {
+    "name": "Histori",
+    "website": "https://histori.xyz",
+    "url": "https://node.histori.xyz/eth-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "weight": 1
+  },
+  {
+    "name": "Alchemy",
+    "website": "https://alchemy.com",
+    "url": "https://eth-mainnet.g.alchemy.com/v2/demo",
+    "keybase": "1793CDADD5B812D0",
+    "weight": 1
+  },
+  {
+    "name": "Gashawk",
+    "website": "https://gashawk.io",
+    "url": "https://core.gashawk.io/rpc",
+    "weight": 1
+  },
+  {
+    "name": "Ava Cloud",
+    "website": "https://ava.do",
+    "url": "https://mainnet.eth.cloud.ava.do/",
+    "weight": 1
+  },
+  {
+    "name": "Flux",
+    "website": "https://runonflux.io",
+    "url": "https://ethereumnodelight.app.runonflux.io",
+    "weight": 1
+  },
+  {
+    "name": "RPCFast",
+    "website": "https://rpcfast.com",
+    "url": "https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+    "weight": 1
+  },
+  {
+    "name": "LinkPool",
+    "website": "https://linkpool.io",
+    "url": "https://main-light.eth.linkpool.io",
+    "keybase": "9F82143A7FD9D34F",
+    "weight": 1
+  },
+  {
+    "name": "Gateway.fm",
+    "website": "https://gateway.fm",
+    "url": "https://rpc.eth.gateway.fm",
+    "keybase": "D2F82B4C6424AA0B",
+    "weight": 1
+  },
+  {
+    "name": "Chain49",
+    "website": "https://chain49.com",
+    "url": "https://rpc.chain49.com/ethereum?api_key=14d1a8b86d8a4b4797938332394203dc",
+    "weight": 1
+  },
+  {
+    "name": "MeowRPC",
+    "website": "https://meowrpc.com",
+    "url": "https://eth.meowrpc.com",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "website": "https://drpc.org",
+    "url": "https://eth.drpc.org",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly Gateway",
+    "website": "https://tenderly.co",
+    "url": "https://mainnet.gateway.tenderly.co",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly Virtual",
+    "website": "https://tenderly.co",
+    "url": "https://virtual.mainnet.rpc.tenderly.co/7355b215-ef17-4e3e-8f64-d494284ef18a",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly Virtual 2",
+    "website": "https://tenderly.co",
+    "url": "https://virtual.mainnet.rpc.tenderly.co/5804dcf7-70e6-4988-b2b0-3672193e0c91",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly Public",
+    "website": "https://tenderly.co",
+    "url": "https://gateway.tenderly.co/public/mainnet",
+    "weight": 1
+  },
+  {
+    "name": "ZAN",
+    "website": "https://zan.top",
+    "url": "https://api.zan.top/eth-mainnet",
+    "weight": 1
+  },
+  {
+    "name": "DiamondSwap",
+    "website": "https://diamondswap.org",
+    "url": "https://eth-mainnet.diamondswap.org/rpc",
+    "weight": 1
+  },
+  {
+    "name": "NotADegen",
+    "website": "https://notadegen.com",
+    "url": "https://rpc.notadegen.com/eth",
+    "weight": 1
+  },
+  {
+    "name": "Merkle",
+    "website": "https://merkle.io",
+    "url": "https://eth.merkle.io",
+    "keybase": "7B1C11D82CED401B",
+    "weight": 1
+  },
+  {
+    "name": "LokiBuilder",
+    "website": "https://lokibuilder.xyz",
+    "url": "https://rpc.lokibuilder.xyz/wallet",
+    "weight": 1
+  },
+  {
+    "name": "TokenView",
+    "website": "https://tokenview.io",
+    "url": "https://services.tokenview.io/vipapi/nodeservice/eth?apikey=qVHq2o6jpaakcw3lRstl",
+    "weight": 1
+  },
+  {
+    "name": "NodeConnect",
+    "website": "https://nodeconnect.org",
+    "url": "https://eth.nodeconnect.org/",
+    "weight": 1
+  },
+  {
+    "name": "Stateless",
+    "website": "https://stateless.solutions",
+    "url": "https://api.stateless.solutions/ethereum/v1/demo",
+    "weight": 1
+  },
+  {
+    "name": "PolySplit",
+    "website": "https://polysplit.cloud",
+    "url": "https://rpc.polysplit.cloud/v1/chain/1",
+    "weight": 1
+  },
+  {
+    "name": "StackUp",
+    "website": "https://stackup.sh",
+    "url": "https://public.stackup.sh/api/v1/node/ethereum-mainnet",
+    "weight": 1
+  },
+  {
+    "name": "Tatum",
+    "website": "https://tatum.io",
+    "url": "https://ethereum-mainnet.gateway.tatum.io",
+    "weight": 1
+  },
+  {
+    "name": "NOWNodes",
+    "website": "https://nownodes.io",
+    "url": "https://eth.nownodes.io",
+    "weight": 1
+  },
+  {
+    "name": "Nodifi",
+    "website": "https://nodifi.ai",
+    "url": "https://rpc.nodifi.ai/api/rpc/free",
+    "weight": 1
+  },
+  {
+    "name": "SubQuery",
+    "website": "https://subquery.network",
+    "url": "https://ethereum.rpc.subquery.network/public",
+    "weight": 1
+  },
+  {
+    "name": "Graffiti",
+    "website": "https://graffiti.farm",
+    "url": "https://rpc.graffiti.farm",
+    "weight": 1
+  },
+  {
+    "name": "RadiumBlock",
+    "website": "https://radiumblock.co",
+    "url": "https://rpc.public.curie.radiumblock.co/http/ethereum",
+    "weight": 1
+  },
+  {
+    "name": "4everland",
+    "website": "https://4everland.org",
+    "url": "https://eth-mainnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+    "keybase": "50003F3261C90F77",
+    "weight": 1
+  },
+  {
+    "name": "BlockRazor",
+    "website": "https://blockrazor.xyz",
+    "url": "https://eth.blockrazor.xyz",
+    "weight": 1
+  },
+  {
+    "name": "OmniaTech",
+    "website": "https://omniatech.io",
+    "url": "https://endpoints.omniatech.io/v1/eth/mainnet/public",
+    "weight": 1
+  },
+  {
+    "name": "Lava",
+    "website": "https://lava.build",
+    "url": "https://eth1.lava.build",
+    "weight": 1
+  },
+  {
+    "name": "0xRPC",
+    "website": "https://0xrpc.io",
+    "url": "https://0xrpc.io/eth",
+    "weight": 1
+  },
+  {
+    "name": "Owlracle",
+    "website": "https://owlracle.info",
+    "url": "https://rpc.owlracle.info/eth/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "weight": 1
+  },
+  {
+    "name": "TheRPC",
+    "website": "https://therpc.io",
+    "url": "https://ethereum.therpc.io",
+    "weight": 1
+  },
+  {
+    "name": "OnFinality",
+    "website": "https://onfinality.io",
+    "url": "https://eth.api.onfinality.io/public",
+    "weight": 1
+  }
+]

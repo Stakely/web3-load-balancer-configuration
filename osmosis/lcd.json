@@ -196,5 +196,11 @@
     "url": "https://osmosis-mainnet-cosmos.reliableninjas.com",
     "website": "https://reliableninjas.com",
     "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://osmosis-api.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
   }
 ]

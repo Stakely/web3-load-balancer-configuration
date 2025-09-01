@@ -220,5 +220,11 @@
     "url": "https://osmosis-mainnet-tendermint.reliableninjas.com",
     "website": "https://reliableninjas.com",
     "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://osmosis-rpc.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
   }
 ]

@@ -31,5 +31,35 @@
     "website": "https://www.ankr.com/",
     "url": "https://rpc.ankr.com/taiko",
     "weight": 1
+  },
+  {
+    "name": "The RPC.io",
+    "website": "https://therpc.io",
+    "url": "https://taiko.therpc.io",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly",
+    "website": "https://tenderly.co/",
+    "url": "https://taiko-mainnet.gateway.tenderly.co",
+    "weight": 1
+  },
+  {
+    "name": "Grove City",
+    "website": "https://grove.city/",
+    "url": "https://taiko.rpc.grove.city/v1/01fdb492",
+    "weight": 1
+  },
+  {
+    "name": "Publicnode",
+    "website": "https://publicnode.com",
+    "url": "https://taiko-rpc.publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "DRPC",
+    "website": "https://drpc.org",
+    "url": "https://taiko.drpc.org",
+    "weight": 1
   }
 ]

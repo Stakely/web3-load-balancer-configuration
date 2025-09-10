@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Somnia network",
+    "website": "https://somnia.network/",
+    "url": "https://api.infra.mainnet.somnia.network/",
+    "weight": 1
+  },
+  {
+    "name": "Thirdweb",
+    "website": "https://thirdweb.com/",
+    "url": "https://5031.rpc.thirdweb.com/",
+    "weight": 1
+  },
+  {
+    "name": "Rubynodes",
+    "website": "https://rubynodes.io",
+    "url": "https://somnia-mainnet-rpc.rubynodes.io/",
+    "keybase": "432787ACFD920F68",
+    "weight": 1
+  }
+]

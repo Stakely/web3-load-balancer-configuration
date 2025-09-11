@@ -57,7 +57,7 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - RPC: https://agoric-rpc.stakely.io
 - Osmosis:
   - LCD: https://osmosis-lcd.stakely.io
-  - RPC: https://osmosis-lcd.stakely.io
+  - RPC: https://osmosis-rpc.stakely.io
 - Taiko:
   - JSON-RPC: https://taiko-json-rpc.stakely.io
 - Fantom:
@@ -70,3 +70,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - JSON-RPC: https://ethereum-json-rpc.stakely.io
 - Somnia
   - JSON-RPC: https://somnia-json-rpc.stakely.io
+- Union:
+  - LCD: https://union-lcd.stakely.io
+  - RPC: https://union-rpc.stakely.io

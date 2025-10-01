@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://union-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1
+  },
+  {
+    "name": "Union Build",
+    "website": "https://union.build",
+    "url": "https://rpc.union.build",
+    "weight": 1
+  },
+  {
+    "name": "Nodestake",
+    "website": "https://nodestake.org",
+    "url": "https://rpc.union.nodestake.org/",
+    "keybase": "94EFE192B2C52424",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "website": "https://polkachu.com",
+    "url": "https://union-rpc.polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Synergynodes",
+    "website": "https://synergynodes.com",
+    "url": "https://union-rpc.synergynodes.com/",
+    "keybase": "673CA76602A5AC88",
+    "weight": 1
+  },
+  {
+    "name": "Nodes.Guru",
+    "url": "https://rpc-1.union.nodes.guru",
+    "website": "https://nodes.guru",
+    "weight": 1
+  },
+  {
+    "name": "Lavender.Five Nodes 🐝",
+    "url": "https://rpc.lavenderfive.com/union",
+    "website": "https://lavenderfive.com/union",
+    "weight": 1
+  },
+  {
+    "name": "Kingnodes 👑",
+    "url": "https://union-rpc.kingnodes.com",
+    "website": "https://kingnodes.com",
+    "weight": 1
+  },
+  {
+    "name": "Stake&Relax",
+    "url": "https://union-rpc.stakeandrelax.net",
+    "website": "https://stakeandrelax.net",
+    "weight": 1
+  },
+  {
+    "name": "ruangnode",
+    "url": "https://m-union-rpc.ruangnode.com:443",
+    "website": "https://ruangnode.com",
+    "weight": 1
+  }
+]

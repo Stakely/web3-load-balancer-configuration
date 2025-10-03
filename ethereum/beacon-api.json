@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://ethereum-beacon-api-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "PublicNode",
+    "website": "https://publicnode.com",
+    "url": "https://ethereum-beacon-api.publicnode.com",
+    "weight": 1
+  },
+  {
+    "name": "Nimbus Unstable",
+    "website": "https://nimbus.team",
+    "url": "http://unstable.mainnet.beacon-api.nimbus.team/",
+    "weight": 1
+  },
+  {
+    "name": "Nimbus Testing",
+    "website": "https://nimbus.team",
+    "url": "http://testing.mainnet.beacon-api.nimbus.team/",
+    "weight": 1
+  },
+  {
+    "name": "dRPC",
+    "website": "https://drpc.org",
+    "url": "https://eth-beacon-chain.drpc.org",
+    "weight": 1
+  },
+  {
+    "name": "Chainsafe",
+    "website": "https://chainsafe.io",
+    "url": "https://lodestar-mainnet.chainsafe.io/",
+    "weight": 1
+  }
+]

@@ -65,6 +65,7 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - JSON-RPC: https://celo-json-rpc.stakely.io
 - Ethereum
   - JSON-RPC: https://ethereum-json-rpc.stakely.io
+  - BEACON API:  https://ethereum-beacon-api.stakely.io
 - Somnia
   - JSON-RPC: https://somnia-json-rpc.stakely.io
 - Union:

@@ -62,5 +62,11 @@
     "url": "https://m-union-rpc.ruangnode.com:443",
     "website": "https://ruangnode.com",
     "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://union-rpc.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
   }
 ]

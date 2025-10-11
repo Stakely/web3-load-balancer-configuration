@@ -62,5 +62,11 @@
     "url": "https://m-union-api.ruangnode.com:443",
     "website": "https://ruangnode.com",
     "weight": 1
+  },
+  {
+    "name": "High Stakes 🇨🇭",
+    "url": "https://union-api.highstakes.ch",
+    "website": "https://highstakes.ch",
+    "weight": 1
   }
 ]

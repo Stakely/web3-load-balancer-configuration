@@ -299,5 +299,11 @@
     "url": "https://cosmos-rpc.ibs.team",
     "website": "https://ibs.team",
     "weight": 1
+  },
+  {
+    "name": "Inter Blockchain Services",
+    "url": "https://cosmos.ibs.team:443/rpc",
+    "website": "https://ibs.team:443/rpc",
+    "weight": 1
   }
 ]

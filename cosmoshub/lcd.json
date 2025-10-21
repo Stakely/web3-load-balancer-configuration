@@ -264,5 +264,11 @@
     "url": "https://api.cosmoshub-4-archive.citizenweb3.com:443",
     "website": "https://citizenweb3.com",
     "weight": 1
+  },
+  {
+    "name": "Inter Blockchain Services",
+    "url": "https://cosmos.ibs.team:443/api",
+    "website": "https://ibs.team:443/api",
+    "weight": 1
   }
 ]

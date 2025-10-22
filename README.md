@@ -71,3 +71,18 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Union:
   - LCD: https://union-lcd.stakely.io
   - RPC: https://union-rpc.stakely.io
+- Fantom:
+  - JSON-RPC: https://fantom-json-rpc.stakely.io
+- Sonic:
+  - JSON-RPC: https://sonic-json-rpc.stakely.io
+- Namada:
+  - RPC: https://namada-rpc.stakely.io
+- Initia:
+  - LCD: https://initia-lcd.stakely.io
+  - RPC: https://initia-rpc.stakely.io
+- Celestia:
+  - LCD: https://celestia-lcd.stakely.io
+  - RPC: https://celestia-rpc.stakely.io
+- Archway:
+  - LCD: https://archway-lcd.stakely.io
+  - RPC: https://archway-rpc.stakely.io

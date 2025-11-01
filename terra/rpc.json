@@ -100,5 +100,11 @@
     "url": "https://terra-rpc.chainroot.io",
     "website": "https://chainroot.io",
     "weight": 1
+  },
+  {
+    "name": "Node39",
+    "url": "https://terra-rpc.node39.top",
+    "website": "https://node39.top",
+    "weight": 1
   }
 ]

@@ -94,5 +94,11 @@
     "url": "https://terra-api.chainroot.io",
     "website": "https://chainroot.io",
     "weight": 1
+  },
+  {
+    "name": "Node39",
+    "url": "https://terra-api.node39.top",
+    "website": "https://node39.top",
+    "weight": 1
   }
 ]

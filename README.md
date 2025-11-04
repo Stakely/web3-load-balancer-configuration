@@ -42,9 +42,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Terra:
   - LCD: https://terra-lcd.stakely.io
   - RPC: https://terra-rpc.stakely.io
-- Juno:
-  - LCD: https://juno-lcd.stakely.io
-  - RPC: https://juno-rpc.stakely.io
 - Secret Network:
   - LCD: https://secretnetwork-lcd.stakely.io
   - RPC: https://secretnetwork-rpc.stakely.io

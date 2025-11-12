@@ -74,9 +74,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - JSON-RPC: https://sonic-json-rpc.stakely.io
 - Namada:
   - RPC: https://namada-rpc.stakely.io
-- Initia:
-  - LCD: https://initia-lcd.stakely.io
-  - RPC: https://initia-rpc.stakely.io
 - Celestia:
   - LCD: https://celestia-lcd.stakely.io
   - RPC: https://celestia-rpc.stakely.io

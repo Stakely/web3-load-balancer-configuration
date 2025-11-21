@@ -202,5 +202,11 @@
     "url": "https://osmosis-api.highstakes.ch",
     "website": "https://highstakes.ch",
     "weight": 1
+  },
+  {
+    "name": "Citizen Web3",
+    "url": "https://api.osmosis.citizenweb3.com/",
+    "website": "https://citizenweb3.com/",
+    "weight": 1
   }
 ]

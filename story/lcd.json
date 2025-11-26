@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://story-lcd-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "It Rocket",
+    "website": "https://itrocket.net",
+    "url": "https://story-mainnet-api.itrocket.net/",
+    "keybase": "D36EEB12E5B1B11A",
+    "weight": 1
+  },
+  {
+    "name": "Cosmic Validator",
+    "website": "https://cosmicvalidator.com",
+    "url": "https://story-api.cosmicvalidator.com/",
+    "keybase": "FF4B91B50B71CEDA",
+    "weight": 1
+  }
+]

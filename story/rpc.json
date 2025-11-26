@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://story-rpc-server-01.stakely.io",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "It Rocket",
+    "website": "https://itrocket.net",
+    "url": "https://story-mainnet-rpc.itrocket.net/",
+    "keybase": "D36EEB12E5B1B11A",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "url": "https://story-rpc.polkachu.com",
+    "website": "https://polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "Cosmic Validator",
+    "website": "https://cosmicvalidator.com",
+    "url": "https://story-rpc.cosmicvalidator.com/",
+    "keybase": "FF4B91B50B71CEDA",
+    "weight": 1
+  }
+]

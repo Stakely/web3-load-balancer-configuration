@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://story-json-rpc-server-01.stakely.io/",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "StoryRPC",
+    "website": "https://storyrpc.io",
+    "url": "https://mainnet.storyrpc.io/",
+    "weight": 1
+  },
+  {
+    "name": "SpiderNode",
+    "website": "https://spidernode.net",
+    "url": "https://story-evm-rpc.spidernode.net",
+    "weight": 1
+  },
+  {
+    "name": "DTeam",
+    "website": "https://dteam.tech",
+    "url": "https://evm-rpc.story.mainnet.dteam.tech",
+    "keybase": "B71B958218E3F7BA",
+    "weight": 1
+  },
+  {
+    "name": "Grandvalleys",
+    "website": "https://grandvalleys.com",
+    "url": "https://lightnode-json-rpc-mainnet-story.grandvalleys.com",
+    "weight": 1
+  },
+  {
+    "name": "Krews",
+    "website": "https://krews.xyz",
+    "url": "https://story-evm-rpc.krews.xyz",
+    "keybase": "8168C3430531FFB0",
+    "weight": 1
+  },
+  {
+    "name": "Nodestake",
+    "website": "https://nodestake.org",
+    "url": "https://evmrpc.story.nodestake.org",
+    "keybase": "94EFE192B2C52424",
+    "weight": 1
+  },
+  {
+    "name": "Silent Validator",
+    "website": "https://grove.city/",
+    "url": "https://evm-rpc.story.silentvalidator.com",
+    "weight": 1
+  },
+  {
+    "name": "Ankr",
+    "website": "https://ankr.com",
+    "url": "https://rpc.ankr.com/story_mainnet",
+    "weight": 1
+  },
+  {
+    "name": "Node75",
+    "website": "https://node75.org",
+    "url": "https://evm-rpc-archive.story.node75.org",
+    "keybase": "4B9AB6A7C275E32A",
+    "weight": 1
+  },
+  {
+    "name": "Tenderly",
+    "website": "https://tenderly.co",
+    "url": "https://story.gateway.tenderly.co",
+    "weight": 1
+  },
+  {
+    "name": "Thirdweb",
+    "website": "https://thirdweb.com",
+    "url": "https://1514.rpc.thirdweb.com/",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "url": "https://storyevm-rpc.polkachu.com",
+    "website": "https://polkachu.com",
+    "keybase": "0A6AF02D1557E5B4",
+    "weight": 1
+  },
+  {
+    "name": "NodeFleet",
+    "website": "https://nodefleet.net",
+    "url": "https://story-mainnet.us.nodefleet.net/",
+    "weight": 1
+  }
+]

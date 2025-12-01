@@ -137,6 +137,7 @@
     "name": "NodeStake",
     "url": "https://api.cosmos.nodestake.top",
     "website": "https://nodestake.top",
+    "keybase": "94EFE192B2C52424",
     "weight": 1
   },
   {
@@ -239,6 +240,7 @@
     "name": "NodeStake",
     "url": "https://api.cosmos.nodestake.org",
     "website": "https://nodestake.org",
+    "keybase": "94EFE192B2C52424",
     "weight": 1
   },
   {

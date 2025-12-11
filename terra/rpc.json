@@ -106,5 +106,11 @@
     "url": "https://terra-rpc.node39.top",
     "website": "https://node39.top",
     "weight": 1
+  },
+  {
+    "name": "OnNode",
+    "url": "https://terra-m-rpc.onnode.org",
+    "website": "https://onnode.org",
+    "weight": 1
   }
 ]

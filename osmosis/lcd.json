@@ -208,5 +208,11 @@
     "url": "https://api.osmosis.citizenweb3.com/",
     "website": "https://citizenweb3.com/",
     "weight": 1
+  },
+  {
+    "name": "Pocket Network",
+    "url": "https://osmosis.api.pocket.network",
+    "website": "https://pocket.network",
+    "weight": 1
   }
 ]

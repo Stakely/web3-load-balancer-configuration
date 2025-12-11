@@ -304,9 +304,21 @@
     "weight": 1
   },
   {
+    "name": "CryptoCrew",
+    "url": "https://rpc.cosmoshub-main.ccvalidators.com:443",
+    "website": "https://ccvalidators.com",
+    "weight": 1
+  },
+  {
     "name": "Inter Blockchain Services",
     "url": "https://cosmos.ibs.team:443/rpc",
     "website": "https://ibs.team:443/rpc",
+    "weight": 1
+  },
+  {
+    "name": "🚀 WHEN MOON 🌕 WHEN LAMBO 🔥",
+    "url": "https://cosmoshub-mainnet.chain.whenmoonwhenlambo.money",
+    "website": "https://whenmoonwhenlambo.money",
     "weight": 1
   }
 ]

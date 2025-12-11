@@ -100,5 +100,11 @@
     "url": "https://terra-api.node39.top",
     "website": "https://node39.top",
     "weight": 1
+  },
+  {
+    "name": "OnNode",
+    "url": "https://terra-m-api.onnode.org",
+    "website": "https://onnode.org",
+    "weight": 1
   }
 ]

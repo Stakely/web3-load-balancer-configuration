@@ -81,6 +81,5 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
   - LCD: https://archway-lcd.stakely.io
   - RPC: https://archway-rpc.stakely.io
 - Story
-  - LCD: https://story-lcd.stakely.io
   - RPC: https://story-rpc.stakely.io
   - JSON-RPC: https://story-json-rpc.stakely.io

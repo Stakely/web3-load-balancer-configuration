@@ -17,5 +17,35 @@
     "website": "https://hypurrscan.io",
     "url": "https://rpc.hypurrscan.io",
     "weight": 1
+  },
+  {
+    "name": "DRPC",
+    "website": "https://drpc.org",
+    "url": "https://hyperliquid.drpc.org",
+    "weight": 1
+  },
+  {
+    "name": "hyperlend Finance",
+    "website": "https://hyperlend.finance",
+    "url": "https://rpc.hyperlend.finance",
+    "weight": 1
+  },
+  {
+    "name": "OnFinality",
+    "website": "https://onfinality.io",
+    "url": "https://hyperliquid.api.onfinality.io/evm/public",
+    "weight": 1
+  },
+  {
+    "name": "Bloxroute",
+    "website": "https://bloxroute.com",
+    "url": "https://hyperliquid.rpc.blxrbdn.com",
+    "weight": 1
+  },
+  {
+    "name": "Countzero",
+    "website": "https://countzero.xyz",
+    "url": "https://rpc.countzero.xyz/evm",
+    "weight": 1
   }
 ]

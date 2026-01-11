@@ -68,5 +68,11 @@
     "url": "https://union-api.highstakes.ch",
     "website": "https://highstakes.ch",
     "weight": 1
+  },
+  {
+    "name": "Shazoes",
+    "url": "https://union-mainnet-api.shazoes.xyz",
+    "website": "https://shazoes.xyz",
+    "weight": 1
   }
 ]

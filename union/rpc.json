@@ -68,5 +68,11 @@
     "url": "https://union-rpc.highstakes.ch",
     "website": "https://highstakes.ch",
     "weight": 1
+  },
+  {
+    "name": "Shazoes",
+    "url": "https://union-mainnet-rpc.shazoes.xyz",
+    "website": "https://shazoes.xyz",
+    "weight": 1
   }
 ]

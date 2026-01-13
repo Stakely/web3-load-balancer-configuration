@@ -13,9 +13,9 @@ All these contributors are displayed on the load balancer home page.
 
 ## Main features of this load balancer:
 - Node health monitoring
-- CORS access enabled 
+- CORS access enabled
 - Re-routing requests on failures
-- Re-trying requests on 10s node timeout 
+- Re-trying requests on 10s node timeout
 - Intelligent request caching mechanism
 - Deployed on a distributed infrastructure
 - Webpage with stats and contributors for each service
@@ -63,8 +63,6 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Ethereum
   - JSON-RPC: https://ethereum-json-rpc.stakely.io
   - BEACON API:  https://ethereum-beacon-api.stakely.io
-- Somnia
-  - JSON-RPC: https://somnia-json-rpc.stakely.io
 - Union:
   - LCD: https://union-lcd.stakely.io
   - RPC: https://union-rpc.stakely.io

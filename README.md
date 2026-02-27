@@ -77,3 +77,5 @@ Use the available endpoints as if they were normal APIs. The load balancer will 
 - Story
   - RPC: https://story-rpc.stakely.io
   - JSON-RPC: https://story-json-rpc.stakely.io
+- Sui
+  - GRAPHQL: https://sui-graphql.stakely.io

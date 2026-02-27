@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Stakely",
+    "website": "https://stakely.io",
+    "url": "https://sui-graphql-server-01.stakely.io/graphql",
+    "keybase": "55A5F88B4ED52D3E",
+    "weight": 1.1
+  },
+  {
+    "name": "Sui",
+    "website": "https://sui.io/",
+    "url": "https://graphql.mainnet.sui.io/graphql",
+    "weight": 1
+  },
+  {
+    "name": "Node infra",
+    "website": "https://nodeinfra.com/",
+    "url": "https://sui-mainnet-graphql.nodeinfra.com/graphql",
+    "keybase": "81397DB8B13AAE2F",
+    "weight": 1
+  }
+]

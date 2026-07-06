@@ -53,14 +53,12 @@
     "name": "DSRV-1",
     "website": "https://dsrvlabs.com",
     "url": "https://nonce-validator-01.celo.dsrvlabs.net",
-    "keybase": "CC434B6FE536F51B",
     "weight": 1
   },
   {
     "name": "DSRV-2",
     "website": "https://dsrvlabs.net",
     "url": "https://dsrv-validator-02.celo.dsrvlabs.net",
-    "keybase": "CC434B6FE536F51B",
     "weight": 1
   },
   {
@@ -232,7 +230,6 @@
     "name": "DSRV-1",
     "website": "https://dsrvlabs.net",
     "url": "https://dsrv-validator-01.celo.dsrvlabs.net",
-    "keybase": "CC434B6FE536F51B",
     "weight": 1
   },
   {

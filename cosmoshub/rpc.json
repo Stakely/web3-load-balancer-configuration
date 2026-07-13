@@ -273,12 +273,6 @@
     "weight": 1
   },
   {
-    "name": "Lava",
-    "url": "https://cosmoshub.tendermintrpc.lava.build:443",
-    "website": "https://lava.build",
-    "weight": 1
-  },
-  {
     "name": "NodeStake",
     "url": "https://rpc.cosmos.nodestake.org",
     "website": "https://nodestake.org",

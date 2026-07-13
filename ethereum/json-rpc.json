@@ -129,12 +129,6 @@
     "weight": 1
   },
   {
-    "name": "Lava",
-    "website": "https://lava.build",
-    "url": "https://eth1.lava.build",
-    "weight": 1
-  },
-  {
     "name": "0xRPC",
     "website": "https://0xrpc.io",
     "url": "https://0xrpc.io/eth",

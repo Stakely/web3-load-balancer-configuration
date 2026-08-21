@@ -110,7 +110,7 @@
   },
   {
     "name": "Polkachu",
-    "url": "https://cosmos-rpc.polkachu.com",
+    "url": "https://cosmos-rpc.polkachu.com:443",
     "website": "https://polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
     "weight": 1
@@ -273,12 +273,6 @@
     "weight": 1
   },
   {
-    "name": "Lava",
-    "url": "https://cosmoshub.tendermintrpc.lava.build:443",
-    "website": "https://lava.build",
-    "weight": 1
-  },
-  {
     "name": "NodeStake",
     "url": "https://rpc.cosmos.nodestake.org",
     "website": "https://nodestake.org",
@@ -304,9 +298,21 @@
     "weight": 1
   },
   {
+    "name": "QUAD",
+    "url": "https://cosmos.rpc.uquad.org:443",
+    "website": "https://uquad.org",
+    "weight": 1
+  },
+  {
     "name": "CryptoCrew",
     "url": "https://rpc.cosmoshub-main.ccvalidators.com:443",
     "website": "https://ccvalidators.com",
+    "weight": 1
+  },
+  {
+    "name": "Lava",
+    "url": "https://cosmoshub.tendermintrpc.lava.build:443",
+    "website": "https://lava.build",
     "weight": 1
   },
   {
@@ -319,6 +325,24 @@
     "name": "🚀 WHEN MOON 🌕 WHEN LAMBO 🔥",
     "url": "https://cosmoshub-mainnet.chain.whenmoonwhenlambo.money",
     "website": "https://whenmoonwhenlambo.money",
+    "weight": 1
+  },
+  {
+    "name": "Cumulo",
+    "url": "https://rpc.cosmos.cumulo.com.es",
+    "website": "https://com.es",
+    "weight": 1
+  },
+  {
+    "name": "Pocket Network",
+    "url": "https://cosmoshub.api.pocket.network",
+    "website": "https://pocket.network",
+    "weight": 1
+  },
+  {
+    "name": "bapimondal-server",
+    "url": "https://rpc.sbsconstrutionnconsultancy.com",
+    "website": "https://sbsconstrutionnconsultancy.com",
     "weight": 1
   }
 ]

@@ -191,5 +191,17 @@
     "url": "https://api.celestia.node75.org",
     "website": "https://node75.org",
     "weight": 1
+  },
+  {
+    "name": "QUAD",
+    "url": "https://celestia.rpc.uquad.org:443",
+    "website": "https://uquad.org",
+    "weight": 1
+  },
+  {
+    "name": "Polkachu",
+    "url": "https://celestia-api.polkachu.com",
+    "website": "https://polkachu.com",
+    "weight": 1
   }
 ]

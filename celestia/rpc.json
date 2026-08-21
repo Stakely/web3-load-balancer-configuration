@@ -87,7 +87,7 @@
     "weight": 1
   },
   {
-    "url": "https://celestia-rpc.polkachu.com",
+    "url": "https://celestia-rpc.polkachu.com:443",
     "name": "Polkachu",
     "website": "https://polkachu.com",
     "keybase": "0A6AF02D1557E5B4",
@@ -144,7 +144,7 @@
     "weight": 1
   },
   {
-    "url": "https://celestia.cumulo.org.es/",
+    "url": "https://celestia.cumulo.org.es",
     "name": "Cumulo",
     "website": "https://cumulo.pro",
     "keybase": "77158D6796D16CD0",
@@ -212,6 +212,12 @@
     "name": "Pro-Nodes75",
     "url": "https://rpc.celestia.node75.org",
     "website": "https://node75.org",
+    "weight": 1
+  },
+  {
+    "name": "QUAD",
+    "url": "https://celestia.rpc.uquad.org:443",
+    "website": "https://uquad.org",
     "weight": 1
   }
 ]

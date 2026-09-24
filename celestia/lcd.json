@@ -203,5 +203,11 @@
     "url": "https://celestia-api.polkachu.com",
     "website": "https://polkachu.com",
     "weight": 1
+  },
+  {
+    "name": "Cogwheel ⚙️",
+    "url": "https://celestia-api.cogwheel.zone",
+    "website": "https://cogwheel.zone",
+    "weight": 1
   }
 ]

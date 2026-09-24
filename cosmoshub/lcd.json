@@ -308,5 +308,11 @@
     "url": "https://cosmos-api.polkachu.com",
     "website": "https://polkachu.com",
     "weight": 1
+  },
+  {
+    "name": "StakerHouse",
+    "url": "https://cosmoshub-rest.stakerhouse.com",
+    "website": "https://stakerhouse.com",
+    "weight": 1
   }
 ]

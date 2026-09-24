@@ -219,5 +219,11 @@
     "url": "https://celestia.rpc.uquad.org:443",
     "website": "https://uquad.org",
     "weight": 1
+  },
+  {
+    "name": "Cogwheel ⚙️",
+    "url": "https://celestia-rpc.cogwheel.zone",
+    "website": "https://cogwheel.zone",
+    "weight": 1
   }
 ]

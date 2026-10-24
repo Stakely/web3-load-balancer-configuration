@@ -344,5 +344,11 @@
     "url": "https://rpc.sbsconstrutionnconsultancy.com",
     "website": "https://sbsconstrutionnconsultancy.com",
     "weight": 1
+  },
+  {
+    "name": "Crouton Digital",
+    "url": "https://cosmos-mainnet-rpc.crouton.digital",
+    "website": "https://crouton.digital",
+    "weight": 1
   }
 ]

@@ -209,5 +209,11 @@
     "url": "https://celestia-api.cogwheel.zone",
     "website": "https://cogwheel.zone",
     "weight": 1
+  },
+  {
+    "name": "Crouton Digital",
+    "url": "https://celestia-mainnet-api.crouton.digital",
+    "website": "https://crouton.digital",
+    "weight": 1
   }
 ]

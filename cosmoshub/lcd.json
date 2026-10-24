@@ -314,5 +314,11 @@
     "url": "https://cosmoshub-rest.stakerhouse.com",
     "website": "https://stakerhouse.com",
     "weight": 1
+  },
+  {
+    "name": "Crouton Digital",
+    "url": "https://cosmos-mainnet-api.crouton.digital",
+    "website": "https://crouton.digital",
+    "weight": 1
   }
 ]

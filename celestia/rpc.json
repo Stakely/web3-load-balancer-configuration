@@ -225,5 +225,11 @@
     "url": "https://celestia-rpc.cogwheel.zone",
     "website": "https://cogwheel.zone",
     "weight": 1
+  },
+  {
+    "name": "Crouton Digital",
+    "url": "https://celestia-mainnet-rpc.crouton.digital",
+    "website": "https://crouton.digital",
+    "weight": 1
   }
 ]

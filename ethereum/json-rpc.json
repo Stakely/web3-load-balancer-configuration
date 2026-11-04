@@ -24,12 +24,6 @@
     "weight": 1
   },
   {
-    "name": "Flashbots",
-    "website": "https://flashbots.net",
-    "url": "https://rpc.flashbots.net/",
-    "weight": 1
-  },
-  {
     "name": "BloxRoute Virginia",
     "website": "https://bloxroute.com",
     "url": "https://virginia.rpc.blxrbdn.com/",
@@ -101,12 +95,6 @@
     "name": "Tenderly Public",
     "website": "https://tenderly.co",
     "url": "https://gateway.tenderly.co/public/mainnet",
-    "weight": 1
-  },
-  {
-    "name": "ZAN",
-    "website": "https://zan.top",
-    "url": "https://api.zan.top/eth-mainnet",
     "weight": 1
   },
   {

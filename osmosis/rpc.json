@@ -244,5 +244,11 @@
     "url": "https://osmosis.rpc.uquad.org:443",
     "website": "https://uquad.org",
     "weight": 1
+  },
+  {
+    "name": "Crouton Digital",
+    "url": "https://osmosis-mainnet-rpc.crouton.digital",
+    "website": "https://crouton.digital",
+    "weight": 1
   }
 ]
